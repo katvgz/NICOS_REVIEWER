@@ -1,0 +1,3605 @@
+MSTE Combined Question Bank
+511 items - definition prompts shown directly without the added question phrase
+1. Standard sign shape for STOP sign.
+A. Octagon
+B. Circle
+C. Heart
+D. Equilateral triangle
+Answer: Octagon
+2. Standard sign shape for GIVE WAY sign.
+A. Octagon
+B. Circle
+C. Equilateral triangle
+D. Rectangle
+Answer: Circle
+3. Standard sign shape for regulatory signs.
+A. Octagon
+B. Circle
+C. Equilateral triangle
+D. Rectangle
+Answer: Equilateral triangle
+4. Standard sign shape for additional information.
+A. Octagon
+B. Circle
+C. Equilateral triangle
+D. Rectangle
+Answer: Rectangle
+5. Standard sign shape for warning signs.
+A. Octagon
+B. Circle
+C. Equilateral triangle
+D. Rectangle
+Answer: Equilateral triangle
+6. Standard sign shape for directional signs, roadwork signs, signs for special purposes, and
+supplementary plates for warning signs.
+A. Octagon
+B. Circle
+C. Equilateral triangle
+D. Rectangle
+Answer: Rectangle
+7. Standard sign shape for facility information signs, instruction signs, guide signs and
+destinations of point of interest.
+A. Octagon
+B. Circle
+C. Equilateral triangle
+D. Rectangle
+Answer: Rectangle
+8. Standard sign shape for pedestrian and school crossing sign.
+A. Octagon
+B. Pentagon
+C. Equilateral triangle
+D. Rectangle
+Answer: Pentagon
+9. It is anything that can cause harm.
+A. Hazard
+B. Risk
+C. Severity
+D. Accidents
+Answer: Hazard
+10. It is the probability of harm actually being done.
+A. Hazard
+B. Risk
+C. Severity
+D. Likehood
+Answer: Risk
+11. It is a violation of an accepted safe procedure which could permit the occurrence of an
+accident.
+A. Accident
+B. Risk
+C. Unsafe Act
+D. Unsafe Condition
+Answer: Unsafe Act
+12. A hazardous physical condition or circumstance which could directly permit the occurrence of
+an accident.
+A. Accident
+B. Risk
+C. Unsafe Act
+D. Unsafe Condition
+Answer: Unsafe Condition
+13. It is advisable for a site plan to contain a large-scale map of the overall area and to indicate
+where the project is located on the site.
+A. Location Map
+B. Site Plan Map
+C. Vicinity Map
+D. Google Map
+Answer: Vicinity Map
+14. It provides the detailed requirements for the materials, equipment and workmanship to be
+incorporated into the project.
+A. Specifications
+B. Bid Documents
+C. Estimates
+D. Plans
+Answer: Specifications
+15. This drawing has elevation as its vertical axis and horizontal distance as measured along the
+centerline of the facility (or other reference line) as its horizontal axis.
+A. Profile
+B. Geographic
+C. Topographic
+D. Surface
+Answer: Profile
+16. Device mounted on a fixed support (permanent signs) or portable support (temporary signs)
+whereby a specific message is conveyed by means of words or symbols placed or erected for the
+purpose of regulating, warning or guiding traffic.
+A. Roadwork signs
+B. Traffic signs
+C. Overhead signs
+D. Special instruction signs
+Answer: Traffic signs
+17. Signs that inform road users of the traffic laws and regulations which are disregarded will
+constitute an offense.
+A. Warning Signs
+B. Regulatory Signs
+C. Overhead Signs
+D. Guide Signs
+Answer: Regulatory Signs
+18. Signs that instruct road users to meet certain traffic rule requirements on road condition.
+A. Special Instruction Signs
+B. Regulatory Signs
+C. Warning Signs
+D. Guide Signs
+Answer: Special Instruction Signs
+19. Signs which warn road users of condition on or adjacent to the road maybe unexpected or
+hazardous.
+A. Overhead Signs
+B. Roadwork Signs
+C. Warning Signs
+D. Guide Signs
+Answer: Warning Signs
+20. Signs which warns or advise temporary hazardous conditions that could endanger road users
+or the men and equipment engaged on roadworks.
+A. Overhead Signs
+B. Roadwork Signs
+C. Warning Signs
+D. Guide Signs
+Answer: Roadwork Signs
+21. Signs which provide means of displaying essential traffic information on wide multi- lane
+roads, where some degree of lane use control is required or where side of road clearance is
+insufficient to accomodate a road side sign.
+A. Overhead Signs
+B. Roadwork Signs
+C. Warning Signs
+D. Guide Signs
+Answer: Overhead Signs
+22. Signs which inform and advise road users of directions, distances, routes and the location of
+services for road users and point of interest.
+A. Overhead Signs
+B. Roadwork Signs
+C. Warning Signs
+D. Guide Signs
+Answer: Guide Signs
+23. Signs used to guide drivers through a change in horizontal alignment of the road.
+A. Chevron signs
+B. Supplementary signs
+C. Guide signs
+D. Delineators
+Answer: Chevron signs
+24. The reaction time used for road safety design is:
+A. 1.0 sec
+B. 1.5 sec
+C. 2.0 sec
+D. 2.5 sec
+Answer: 2.5 sec
+25. The speed limit appropriate on lower standard expressways.
+A. 50 or 60 kph
+B. 60 or 75 kph
+C. 90 or 100 kph
+D. 80 or 90 kph
+Answer: 80 or 90 kph
+26. Ideal capacity of a road is:
+A. 2000 vph
+B. 1800 vph
+C. 1400 vph
+D. 2500 vph
+Answer: 2000 vph
+27. Which of these contour characteristics is not true?
+A. Contours on the ground can cross another.
+B. Contours are at the right angles to the slope.
+C. Contour on the ground closes itself.
+D. Contours point upstream.
+Answer: Contours on the ground can cross another.
+28. In the Standard practice of measuring vertical or zenith angles, the following practices are of
+great importance: I. Be sure the instrument is level II. Sight with thevertical crosshair III. Sight
+exactly on the target IV. Sight direct and reverse Which standard practices are true?
+A. I only
+B. I, III & IV only
+C. I & III only
+D. All of the above
+Answer: I, III & IV only
+29. is the process of increasing the density of a soil by mechanically forcing the soil particles
+closer together, thereby expelling air from the void spaces in the soil.
+A. Compression
+B. Consolidation
+C. Compaction
+D. Contraction
+Answer: Compaction
+30. is an increase in soil density of a cohesive soil resulting from the expulsion of water from the
+soil's void spaces.
+A. Compression
+B. Consolidation
+C. Compaction
+D. Contraction
+Answer: Consolidation
+31. Compactor production is based on the following data: I.Number of paces required II.Width
+compacted per pass III.Compactor speed IV.Compacted lift thickness V.Job Efficiency
+A. I, III, IV and V
+B. I, II, IV, and V
+C. all of the above
+D. II, III, IV and V
+Answer: all of the above
+32. The process of giving natural soils enough abrasive resistance and shear strength to
+accommodate traffic or design loads is called.
+A. Ground Modification
+B. Dynamic Compaction
+C. Vibroflotation
+D. Surcharging
+Answer: Ground Modification
+33. or placing additional weight on the soil surface, has long been used to densify cohesive soils.
+A. Ground Modification
+B. Dynamic Compaction
+C. Vibroflotation
+D. Surcharging
+Answer: Surcharging
+34. It involves dropping a heavy weight from a crane onto the ground surface to achieve soil
+densification.
+A. Ground Modification
+B. Dynamic Compaction
+C. Vibroflotation
+D. Surcharging
+Answer: Dynamic Compaction
+35. is the process of densifying cohesionless inserting a vibratory probe into the soil.
+A. Ground Modification
+B. Dynamic Compaction
+C. Vibroflotation
+D. Surcharging soils by
+Answer: Vibroflotation
+36. Workers in an excavation be protected from cave-ins by one of the following methods: Sloping
+or benching of the sides of the excavation. Supporting the sides of the excavation by shoring. III.
+Placing a shield between workers and the sides of the excavation. IV.Drying soil to prevent
+collapsing. I. II.
+A. all of the above
+B. I, II, and IV
+C. I, II, and III
+D. II, III, and IV
+Answer: I, II, and III
+37. In highway construction, the process of cutting down high spots and filling in low spots of
+each roadway layer is called.
+A. Balancing
+B. Grading
+C. Trimming
+D. Finishing
+Answer: Balancing
+38. Highway appurtenances designed to prevent vehicular penetration from the travel way to areas
+behind the barrier such as to minimize damage to impacting vehicles and their occupants, and to
+reduce the risk of injuries to pedestrians and workers.
+A. Traffic Cones
+B. Delineators
+C. Barriers
+D. Temporary Curbing
+Answer: Barriers
+39. Warning devices used to supplement other controls devices necessary to alert motorists of
+construction maintenance activities or obstructions in the roadway.
+A. Traffic Cones
+B. Delineators
+C. Barriers
+D. Flashing Lamps and and
+Answer: Flashing Lamps and and
+40. Light retro-reflecting devices mounted at the side of the roadway, in series, to indicate the
+roadway alignment.
+A. Traffic Cones
+B. Delineators
+C. Flexible post or Bollard
+D. Flashing Lamps
+Answer: Delineators
+41. Devices which may be conical in shape or tubular shaped are capable of performing
+channelization of traffic which may be set on the surface of the roadway or rigidly attached for
+continued use.
+A. Traffic Cones
+B. Delineators
+C. Flexible post or Bollard
+D. Flashing Lamps
+Answer: Traffic Cones
+42. Roadwork devices consisting of precast concrete sections, sandbag and others which may be
+used to guide traffic at the construction site.
+A. Barriers
+B. Delineators
+C. Temporary Curbing
+D. Flexible post or Bollard
+Answer: Temporary Curbing
+43. Device used in place of rigid cones with a minimum of 450 mm by 50 mm wide with alternate
+bands of contrasting color as seen by approaching traffic for delineation of traffic.
+A. Barriers
+B. Delineators
+C. Temporary Curbing
+D. Flexible post or Bollard
+Answer: Flexible post or Bollard
+44. Means any traffic control device marked on the surface of the carriageway used to regulate
+traffic or to warn or guide road users.
+A. Chevron Signs
+B. Delineators
+C. Lane Line
+D. Road Markers
+Answer: Road Markers
+45. Looking at the possibility of injury or harm occurring to a person if exposed to a hazard.
+A. Injury Reports
+B. Risk Assessment
+C. Risk Control
+D. Hazard Identification
+Answer: Risk Assessment
+46. Recognizing things which may cause injury or harm to a person.
+A. Injury Reports
+B. Risk Assessment
+C. Risk Control
+D. Hazard Identification
+Answer: Hazard Identification
+47. Introduction of measures which will eliminate or reduce the risk of a person being exposed to a
+hazard.
+A. Injury Reports
+B. Risk Assessment
+C. Risk Control
+D. Hazard Identification
+Answer: Risk Control
+48. Rule is the guidelines regarding Personal Protective Equipment (PPE).
+A. 1040
+B. 1080
+C. 1070
+D. 1090
+Answer: 1080
+49. An unexpected event which results in serious injury or illness of an employee and may also
+result in property damage.
+A. Accident
+B. Incident
+C. Injury
+D. Risk
+Answer: Accident
+50. An instance of something happening, an unexpected event or occurrence that doesn't result in
+serious injury or illness but may result in property damage.
+A. Accident
+B. Incident
+C. Injury
+D. Risk
+Answer: Incident
+51. A wave at a point where the depth is equal to ½ of the wavelength or greater can be expressed
+in terms of the parameters of the significant wave.
+A. Deep Water Wave
+B. Highest Wave
+C. Significant Wave
+D. Equivalent Depth Wave
+Answer: Deep Water Wave
+52. A hypothetical wave having a wave height and period equal to average values of the wave
+height and period of the largest 1/3 of all waves in the train as counted in the order of greater wave
+height
+A. Deep Water Wave
+B. Gravity Wave
+C. Significant Wave
+D. Equivalent Depth Wave
+Answer: Significant Wave
+53. A maximum wave height and wave period of the maximum wave height in the wave train.
+A. Transitional Wave
+B. Highest Wave
+C. Significant Wave
+D. Equivalent Depth Wave
+Answer: Highest Wave
+54. Waves which occur in water having a depth less than one half of the wavelength and the
+influence of the bottom changes the form or orbital motion from circular to elliptical or near
+elliptical.
+A. Shallow Water Wave
+B. Deep Water Wave
+C. Significant Wave
+D. Highest Wave
+Answer: Shallow Water Wave
+55. Waves formed by the frictional drag of wind across the water surface.
+A. Shallow Wave
+B. Transitional Wave
+C. Significant Wave
+D. Gravity Wave
+Answer: Gravity Wave
+56. The pressure against a vertical wall due to waves.
+A. Wave Decay
+B. Dynamic Pressure
+C. Rankines Active Pressure
+D. Clapotis
+Answer: Clapotis
+57. The regular periodic rise and fall of the surface of the seas, observable along their shores.
+A. Wave
+B. Tide
+C. Period of Wave
+D. Current
+Answer: Tide
+58. Waves generated by storms, which occur outside the area of observation.
+A. Swells
+B. Shoal
+C. Skewd
+D. Ebb
+Answer: Swells
+59. A very long standing wave on a large but limited body of water generally occurring when a
+storm dies down after producing a wind tide.
+A. Seiche
+B. Shoal
+C. Ebb
+D. Skewd
+Answer: Seiche
+60. An instrument use to measure the intensity of wind.
+A. Buchanan's Scale
+B. Fibonacci Scale
+C. Beuforts Scale
+D. Antwerp Scale
+Answer: Beuforts Scale
+61. In many parts of the world, the high waters reach their greatest height and the low waters at the
+least height, soon after the time of full moon and new moon. These tides are called:
+A. Spring Tide
+B. Flood Tide
+C. Neap Tide
+D. Ebb Tide
+Answer: Spring Tide
+62. When the lines connecting the earth with the sun and the moon form a right angle, that is the
+moon is in its quarters, then the actions of the moon and sun are subtractive, and the lowest tides
+of the month occur, this is called:
+A. Neap Tide
+B. Lunar Tide
+C. Diurnal Tide
+D. Ebb Tide
+Answer: Neap Tide
+63. Owing to retardation of the tidal wave in the ocean by frictional force, as the earth revolves
+daily around its axis and as the tide tends to follow the direction of the moon, the highest tide for
+each location is not coincident with conjunction and opposition but occurs at some constant time
+after new and full moon. This interval which may amount to as much as two and a half days is
+known as:
+A. Diurnal Tide
+B. Lunar Tide
+C. Age of the Tide
+D. Semi-diurnal Tide
+Answer: Age of the Tide
+64. The periodic rise and fall of sea level in response to the gravitational attraction of the sun and
+moon as modified by the earth's rotation
+A. Rotational Tides
+B. Storm Surge
+C. Gravitational Tide
+D. Astronomical Tide
+Answer: Astronomical Tide
+65. The PPA (Philippine Ports Authority) requires that water level that guarantees about water
+depth for safety of the ships berthing on a certain ports and harbor, below the mean lower low
+water should be equal to:
+A. 0.15m - 0.30m
+B. 0.12m - 0.40m
+C. 0.15m - 0.40m
+D. 0.12m - 0.50m
+Answer: 0.15m - 0.40m
+66. Joints placed in concrete pavements, which are usually placed transversely, at regular
+intervals, to provide adequate expansion space for the slab to expand when the pavement is
+subjected to an increase in temperature.
+A. Hinge Joint
+B. Contraction Joint
+C. Construction Joint
+D. Expansion Joint
+Answer: Expansion Joint
+67. Joints placed in concrete pavements, which are usually placed transversely at regular intervals
+across the width of the pavement to release some of the tensile stresses that are due to a decrease
+in temperature.
+A. Hinge Joint
+B. Contraction Joint
+C. Construction Joint
+D. Expansion Joint
+Answer: Contraction Joint
+68. Joints placed in concrete pavements, which are usually placed transversely across the
+pavement width to provide suitable transition between concrete placed at different times or on
+different days.
+A. Hinge Joint
+B. Contraction Joint
+C. Construction Joint
+D. Expansion Joint
+Answer: Construction Joint
+69. It is a type of thermoplastic lane marking designed to aid and provide motorist with visual,
+audio, and warning on the road.
+A. Chevron markings
+B. Painted median
+C. Rumble strips
+D. Diagonal markings
+Answer: Rumble strips
+70. Markings which are placed on sealed shoulders or other sealed portions of the road where
+traffic is not desired.
+A. Chevron markings
+B. Painted median
+C. Rumble strips
+D. Diagonal markings
+Answer: Diagonal markings
+71. The time for mixing of ingredients for a concrete cement road should be done for at least:
+A. 2.5 min.
+B. 1.5 min.
+C. 3 min.
+D. 2 min.
+Answer: 1.5 min.
+72. How do you test the relative consistency of concrete?
+A. Slump test
+B. Water-cement ratio
+C. aggregate-cement ratio
+D. All of the above
+Answer: Slump test
+73. Most important process to prepare concrete:
+A. Water-cement ratio
+B. Batching
+C. Cement-aggregate ratio
+D. Admixture
+Answer: Batching
+74. When inside the building, one may notice unusual sounds and change in the building. What
+causes these events?
+A. Temperature
+B. Atoms
+C. Ductility
+D. Ions
+Answer: Atoms
+75. The basic lane width appropriate for national road is .
+A. 2.40 m
+B. 1.80 m
+C. 3.35 m
+D. 5.00 m
+Answer: 5.00 m
+76. Any temporary elevated platform used employees or materials or both in the construction
+works.
+A. Formworks for supporting course of any
+B. Framing
+C. Scaffold
+D. Bracing
+Answer: Scaffold
+77. What are the capacity requirements for all scaffoldings?
+A. At least 4 times its own weight
+B. At least 6 times its own weight
+C. At most 4 times its own weight
+D. At most 6 times its own weigh
+Answer: At least 4 times its own weight
+78. The number of days final curing for a concrete cement pavement is done for:
+A. 21 days
+B. 14 days
+C. 12 days
+D. 18 days
+Answer: 14 days
+79. It is defined as the number of vehicles per unit distance occupying a section of roadway at a
+given instant time.
+A. Density
+B. Flow
+C. Capacity
+D. Volume
+Answer: Density
+80. The number of vehicles moving in a specified direction on a given lane or roadway that pass a
+given point during specified unit time.
+A. Traffic Volume
+B. Traffic Density
+C. Traffic Capacity
+D. Basic Capacity
+Answer: Traffic Volume
+81. The ability of a roadway to accomodate traffic volume. It is expressed as the maximum number
+of vehicle in a lane or a road that can pass a given point in unit time.
+A. Traffic Volume
+B. Traffic Density
+C. Traffic Capacity
+D. Basic Capacity
+Answer: Traffic Capacity
+82. The maximum number of passenger cars that can pass a given point on a lane or roadway
+during one hour under the most nearly ideal roadway and traffic conditions which can possibly be
+attained.
+A. Possible Capacity
+B. Practical Capacity
+C. Traffic Capacity
+D. Basic Capacity
+Answer: Basic Capacity
+83. The maximum number of passenger cars that can pass a given point on a lane or roadway
+during one hour under prevailing roadway and traffic conditions.
+A. Possible Capacity
+B. Practical Capacity
+C. Traffic Capacity
+D. Basic Capacity
+Answer: Possible Capacity
+84. The maximum number of passenger cars that can pass a given point on a lane or roadway
+during one hour without traffic density being so great as to cause unreasonable delay, hazard, or
+restrictions to the driver's freedom to maneuver under traffic conditions.
+A. Possible Capacity
+B. Practical Capacity
+C. Traffic Capacity
+D. Basic Capacity
+Answer: Practical Capacity
+85. Cracks approximately at right angles to the pavement centerline. These may be caused by
+shrinkage or differential thermal stress of the asphalt concrete or maybe reflective cracks.
+A. Alligator Cracking
+B. Block Cracking
+C. Transverse Cracking
+D. Longitudinal Cracking
+Answer: Transverse Cracking
+86. Cracks approximately parallel to the pavement centerline. These are caused by poorly
+constructed construction joints and shrinkage of asphalt concrete surface.
+A. Alligator Cracking
+B. Block Cracking
+C. Transverse Cracking
+D. Longitudinal Cracking
+Answer: Longitudinal Cracking
+87. Wearing way of the pavement surface caused by dislodging of aggregated particles and binder.
+This is usually a result of insufficient asphalt binder in the mix or stripping of asphalt from
+particles of aggregate.
+A. Joint or crack spalling
+B. Bleeding
+C. Flushing
+D. Raveling
+Answer: Raveling
+88. Progressive disintegration of the surface between the wheel paths caused by dripping of
+gasoline or oil from vehicles.
+A. Spalling
+B. Bleeding
+C. Flushing
+D. Drip Track Raveling
+Answer: Drip Track Raveling
+89. The extruding of bitumen onto the pavement surface, causing a reduction in skid resistance. It
+is generally caused by excessive amounts of asphalt in the mix or low air voids content. It occurs
+when asphalt fills the voids in the mix during hot weather and then exudes out onto the surface of
+the pavement.
+A. Spalling
+B. Bleeding or Flushing
+C. Raveling
+D. Abrasion
+Answer: Bleeding or Flushing
+90. Elevation differences between adjacent slabs at transverse joints. It is usually the result of
+pumping and is a major source of Portland Concrete pavement structure.
+A. Spalling
+B. Bleeding
+C. Faulting
+D. Raveling
+Answer: Faulting
+91. Localized upward buckling and shattering of the slabs at transverse joint or cracks. They can
+occur when transverse joints are filled with incompressible solid materials.
+A. Blowups
+B. Spalling
+C. Raveling
+D. Faulting
+Answer: Blowups
+92. The breakdown or disintegration of slab edges at joints or cracks, usually resulting in the loss
+of sound concrete and the progressive widening of joint or crack.
+A. Joint abrasion
+B. Joint spalling
+C. Joint raveling
+D. Joint flushing
+Answer: Joint spalling
+93. A series of interconnected or interlaced cracks caused by fatigue failure of the asphalt
+concrete surface under repeated traffic loading.
+A. Alligator Cracking
+B. Block Cracking
+C. Transverse Cracking
+D. Longitudinal Cracking
+Answer: Alligator Cracking
+94. Cracks forming large interconnected polygons, usually with sharp corners or angle. These
+cracks are generally caused by hardening and shrinkage of the asphalt and or reflection cracking
+from underlying layers such as cement-treated base.
+A. Alligator Cracking
+B. Block Cracking
+C. Transverse Cracking
+D. Longitudinal Cracking
+Answer: Block Cracking
+95. It is the timing of signals in relationship to one another so that vehicles travelling at a
+predetermined speed can pass through the greens of successive signals.
+A. Speed of progression
+B. Signal Coordination
+C. Offset of the cycle
+D. Band
+Answer: Signal Coordination
+96. The speed at which vehicles are presumed to travel through coordinated signal system is
+known as:
+A. Speed of progression
+B. Signal Coordination
+C. Offset of the cycle
+D. Band
+Answer: Speed of progression
+97. The time difference between the beginning and end of through band at any point is known as:
+A. indication
+B. through band
+C. cycle
+D. band width
+Answer: band width
+98. The red, yellow, or green light that is displayed to driven in a given movement is called an:
+A. indication
+B. through band
+C. cycle
+D. band
+Answer: indication
+99. The time required for one complete sequence of signal indication is called .
+A. indication
+B. phase
+C. frequency
+D. cycle
+Answer: cycle
+100. The simplest rail capacity problem is that involving rail rapid transit systems. These usually
+have the following characteristics: i. One-way operation ii. A common speed profile for all trains.
+That is, each train traverses each section of track at the same speed as all other trains;
+consequently, trains do not overtake or pass one another. Common station dwell times. That is,
+each train spends the same amount of time stopped at each station as all other trains; iii. dwell
+times may vary from station to station iv. A fixed minimum front-to-back time gap between trains.
+A. I-III
+B. III only
+C. II and IV only
+D. All of the above
+Answer: All of the above
+101. There are three basic ways of resolving crossing conflicts. I. Time sharing solutions II.Space
+sharing solutions III.Grade separation solutions IV. Crossing conflict solutions
+A. I-III
+B. III only
+C. II and IV only
+D. All of the above
+Answer: I-III
+102. It is the difference between the actual travel time and a given segment of a transportation
+system and some ideal travel time for that segment.
+A. Queue Time
+B. Travel Time
+C. Delay
+D. Service Time
+Answer: Delay
+103. The time spent in decelerating and accelerating the vehicle in opening and closing doors.
+A. Clearance Time
+B. Dwell Time
+C. Influence Time
+D. Bebe Time
+Answer: Clearance Time
+104. Headways such that the vehicles are just filled at the maximum load point on the route.
+A. Policy Headway
+B. Space Headway
+C. Time Headway
+D. Capacity Headway
+Answer: Capacity Headway
+105. Poor construction management practices, on the other hand, often result in one or more of
+the following: I. Project delays that increase labor and equipment cost and the cost of borrowed
+funds. II. High material costs caused by poor purchasing procedures, inefficient handling, and/or
+loss. III. Increased subcontractor cost and poor contractor- subcontractor relations. IV. High
+insurance costs resulting from material and equipment loss or damage or a poor safety record. V.
+Low profit margin or a loss on construction volume.
+A. I, II, IV and V
+B. III and IV only
+C. I, IV and V
+D. All of the above
+Answer: All of the above
+106. The action of flattening poured concrete into a smooth, flat layer prior to finishing the surface.
+A. Finishing
+B. Smoothing
+C. Plastering
+D. Screeding
+Answer: Screeding
+107. In the measures of congestion of highway capacity, what will happen as the density continues
+to increase?
+A. Minimum rate flow is eventually reached
+B. Increase speeds and reduced flow rate
+C. The point is reached at which speed declines noticeably
+D. Running speed and traffic flow is minimum.
+Answer: The point is reached at which speed declines noticeably
+108. This view has elevation as its vertical axis and horizontal distance, measured perpendicular to
+the centerline, as its horizontal axis.
+A. Profile
+B. Plan View
+C. Geometric Cross-Section
+D. Topographic
+Answer: Geometric Cross-Section
+109. It refers to establishment of horizontal and vertical alignments and cross-section, based on
+considerations such as operating characteristics of vehicles, design standards and drainage.
+A. Plans
+B. Topographic
+C. Geometric Design
+D. Contouring
+Answer: Geometric Design
+110. It refers to the physical or environmental conditions of work or employment, which
+substantially comply with the provisions of these Standards.
+A. Approved
+B. Health
+C. Safety
+D. Recognized Hazards
+Answer: Safety
+111. Capacity for two-lane highways ranges from:
+A. 1000 to 1500 passenger car equivalents per hour
+B. 1500 to 2000 passenger car equivalents per hour
+C. 2000 to 2800 passenger car equivalents per hour
+D. 2800 to 3000 passenger car equivalents per hour
+Answer: 2000 to 2800 passenger car equivalents per hour
+112. The primary consideration in the design of geometric cross sections for highways, runways
+and taxiways is .
+A. Elevation
+B. Slope
+C. Drainage
+D. Carriageway
+Answer: Drainage
+113. requires installing aluminum hydraulic or other types of supports to prevent soil movement
+and cave-ins.
+A. Shoring
+B. Benching
+C. Trenching
+D. Sloping
+Answer: Shoring
+114. If the equal sides of an isosceles triangle are given, what length of the third side will provide
+maximum area?
+A. equal to the given sides
+B. ss times the length
+C. 2 times the length
+D. s times the length
+Answer: 2 times the length
+115. The maximum volume that can be placed in the bucket without spillage based on a specified
+angle of repose for the material.
+A. Heaped Volume
+B. Waterline Capacity
+C. Bank Volume
+D. Struck Capacity
+Answer: Heaped Volume
+116. Some ways in which productivity can be increased and costs minimized during construction
+include the following: i. Good work planning ii. Carefully selecting and training workers and
+managers. iii. Efficiently scheduling labor, materials, and equipment iv. v. Properly organizing
+work. Using labor saving techniques, such as prefabrication and preassembly. vi. Minimizing
+rework through timely quality control vii. Preventing accidents through good safety procedures.
+A. I,II, III, VI and VII
+B. I, IV, VI, VII
+C. I, II, IV, VII
+D. All of the above
+Answer: All of the above
+117. Involves dropping a heavy weight from a crane onto the ground surface to achieve soil
+densification.
+A. Dynamic Compaction
+B. Soil stabilization
+C. Vibratory Compaction
+D. Dropping Compaction
+Answer: Dynamic Compaction
+118. ________ means a method of protecting workers from cave-ins by excavating the sides of an
+excavation to form one or a series of horizontal levels or steps, usually with vertical or
+near-vertical surfaces between levels.
+A. Shielding
+B. Shoring
+C. Benching
+D. Sloping
+Answer: Benching
+119. device mounted on a fixed support (permanent signs) or portable support (temporary signs)
+whereby a specific message is conveyed by means of words or symbols placed or erected for the
+purpose of regulating, warning or guiding traffic.
+A. Traffic cone
+B. Traffic Signs
+C. Average speed
+D. Beuforts Scale
+Answer: Traffic Signs
+120. signs that inform road users of traffic laws and regulations which, if disregarded, will
+constitute an offense.
+A. Regulatory Signs
+B. Pavement Arrows
+C. Derived Utility
+D. Cut or Excavation
+Answer: Regulatory Signs
+121. signs that instruct road users to meet certain traffic rule requirements or road condition
+A. Special Instruction Signs
+B. Distance separation
+C. Horizontal tangents
+D. a. Mean Sea Level (MSL)
+Answer: Special Instruction Signs
+122. warn road users of condition on or adjacent to the road that may be unexpected or hazardous
+A. Hinge Points
+B. Give Way Line
+C. Cost of borrow
+D. Warning Signs
+Answer: Warning Signs
+123. inform and advice road users of directions, distance, routes, the location of services, and
+points of interests
+A. Raised Pavement Markers
+B. Single alternate system
+C. Guide Signs (Informative Signs)
+D. Factor of safety or safety factor
+Answer: Guide Signs (Informative Signs)
+124. warn or advise of temporary hazardous conditions that could endanger road users or the men
+and equipment engaged on roadwork
+A. Hydraulic Jump
+B. Policy Headways
+C. Roadwork Signs
+D. Traverse joint
+Answer: Roadwork Signs
+125. signs which provide means of displaying essential traffic information on wide multi- lane
+roads, where some degree of lane use control is required, or where side-of-road clearance is
+insufficient to accommodate a road side sign
+A. Overhead Signs
+B. No Passing Zone
+C. Road geometry
+D. Object Height
+Answer: Overhead Signs
+126. highway appurtenances designed to prevent vehicular penetration from the travel way to
+areas behind the barrier such as to minimize damage to impacting vehicles and their occupants,
+and to reduce the risk of injuries to pedestrians and workers
+A. Discharge
+B. Plan View
+C. Yielding
+D. Barriers
+Answer: Barriers
+127. warning devices used to supplement other controls and devices necessary to alert motorists
+of construction and maintenance activities or obstructions in the roadway.
+A. No Passing Zone
+B. Painted Median
+C. Flashing Lamps
+D. Running speed
+Answer: Flashing Lamps
+128. light retro-reflecting devices mounted at the side of the roadway, in series, to indicate the
+roadway alignment.
+A. Dwell Time
+B. Design Speed
+C. Delineators
+D. Settlement
+Answer: Delineators
+129. devices which may be conical in shape or tubular-shaped capable of performing
+channelization of traffic which may be set on the surface of the roadway or rigidly attached for
+continued use
+A. Basic capacity
+B. Traffic Cones
+C. Block cracking
+D. Running speed
+Answer: Traffic Cones
+130. roadwork devices consisting of pre-cast concrete sections, sandbag, and others which, may
+be used to guide traffic at the construction site.
+A. Asphatic Concrete
+B. Grade separation
+C. Temporary Curbing
+D. Over consolidated
+Answer: Temporary Curbing
+131. device used in place of rigid barrier posts or traffic cones with a minimum of 450 mm by 50
+mm wide with alternate bands of contrasting color as seen by approaching traffic for delineation of
+traffic. The standard colors for signs are as follows: Red is used as a background for STOP signs,
+as border color on GIVE WAY signs, warning signs and prohibitive signs in the regulatory type.
+Black is used as legend color for signs having white, yellow, orange, fluorescent orange,
+fluorescent yellow green background and as chevron for hazard makers. Yellow is used as
+background color for road signs. White is the background color for most signs and legends for
+some colored background. Fluorescent Yellow Green is used as background color for signs
+related to pedestrian movement, school zones, and road work hazard markers to give additional
+emphasis and guidance to vehicle operators. Fluorescent Orange is used as background color for
+roadwork signs whose legends relate to personal working. Green is used as background color for
+direction signs. Blue is used as background color for service signs. Brown is reserved as
+background color for all tourist facility directional and information signs. Classifications of signs
+Signs are classified in the following groups according to their use. Regulatory Signs Warning
+Signs Guide Signs or Informative Sign Signs for Expressways Signs for Special Purposes Hazard
+Markers Uniformity of application is as important as standardization with respect to design and
+placement. Identical conditions should always be treated with the same type of signs so that road
+users can readily anticipate the course of action required. To be effective, the road sign should
+meet the five basic requirements: Fulfill a need Command attention Convey a clear, simple
+message Command respect; and Give adequate time for proper response It should be noted that
+when all sign rules have been followed, some visual judgment must be exercised in adjusting sign
+elements. The following general rules are to be applied when designing the sign face. Cramping of
+legend is to be avoided; Avoid large areas of blank panel, particularly blank areas not
+symmetrically disposed across the panel; If there are two list of legends side by side (e.g., as
+onReassurance Signs) it is necessary to left justify the left list and right justify the right list; and,
+Elements such as arrows and symbols may sometimes have to be larger than the principal legend
+would normally require. For example, an arrow relates to several lines of legends on a direction
+sign Classification of Regulatory Signs Priority Signs Direction Signs Prohibitive or Restrictive
+Signs Review Innovations
+A. Flexible Post or Bollard
+B. Traffic-responsive systems
+C. Overburden pressure
+D. Single Unbroken Yellow Line
+Answer: Flexible Post or Bollard
+132. speed limit between 60 and 70 kph; Size C for high speed rural highways' multi-lane urban
+roads Size D for Expressways Classification of Warning Signs Horizontal Alignment Signs
+Intersection and Junction Signs Advance Warning of Traffic Control Device Signs Road Width
+Signs Road Obstacle Signs Pedestrian and School Signs Railway Level Crossing Supplementary
+Signs Other Warning Signs Signs in Directional Signing series are usually classified into four
+categories: Those installed in advance of the intersection. Those installed at the intersection.
+Those on departure from the intersection. Those installed on expressways. Classification of Guide
+Signs Advance Direction Sign Intersection Direction Sign Reassurance Direction Sign Finger
+Board Direction Sign Street Name Signs Town Name and Geographical Feature Signs Service
+Signs Tourist Information and Tourist Destination Signs Route Markers One-Way hazard markers
+indicate to the approaching driver the direction to be followed if the marker appears in the driving
+path. They may point to the left or right as appropriate and are used as follows: To delineate an
+abrupt narrowing of pavement, for example, at a lane drop; At exposed ends of raised median
+islands where traffic is required to pass to one side; On central island of a roundabout facing
+entering traffic; and To delineate the curve approach just prior to entering an intersection.
+Pavement markings have definite limitations: They are subject to traffic wear and require proper
+maintenance; They may not be clearly visible if the road is wet or dusty; They may be obscured by
+traffic; Their effect on skid resistance requires careful choice of materials; and They cannot be
+applied on unsealed roads. The elements to consider when planning Expressways are: No
+frontage access; Development set well back from the highway; Grade separated intersections for
+extremely high flows and other intersecting expressways; Number of intersections to be
+minimized and Where necessary or for emergency purposes, parking/stopping to be provided
+clear of the main carriageway. The elements to consider when planning National Roads are:
+Limited frontage access Development set well back from the highway All access to premises
+provided via provincial roads Number of intersections to be minimized Suitable at-grade
+channelized intersections for minor flows and other elements No roadside vendors Color of
+Pavement Markings The color of pavement markings shall be white except for the alternative uses
+of yellow as specified below: Double yellow no-passing lines; Unbroken portion of no-passing
+lines; Curb markings for prohibition of parking; On islands in line of traffic; Bus and PUJ lanes;
+and, Keep Intersection Open markings Red shall be used in: No Loading/Unloading Zone; and Fire
+lane zone Design Speed The choice of an appropriate design speed for a road project is important
+to ensure a safe design. When choosing a design speed, the following factors need to be
+considered: Function of the road Anticipated operating speed Anticipated speed limit Warrants for
+Marking Center Lines A center line may be marked on an urban or rural road if one or more of the
+following conditions are met: Two lane road (greater than 6 m in width) carrying an Annual
+Average Daily Traffic (ADT) in excess of 1000 vehicles; Two lane road (less than 6 m but more than
+5 m in width) carrying an ADT in excess of 300 vehicles; and Winding roads with widths of 5 m or
+more. Review Innovations
+A. elsewhere on two and three
+B. Size B for rural roads
+C. Hydraulic grade line
+D. b. Transverse Lines
+Answer: Size B for rural roads
+133. to stop or to change direction The provision of safety sight distance depends on the
+characteristics of the vehicle such as:
+A. Actions available to the driver
+B. Active earth pressure coefficient
+C. Loading and Unloading Bay Lane Line
+D. Plain concrete pavement
+Answer: Actions available to the driver
+134. car or truck Friction between the tire and the road Eye height of the driver Speed of vehicles
+The provision of safety sight distance depends on the characteristics of the road environment
+such as:
+A. Traffic capacity
+B. Vertical curve
+C. Type of vehicle
+D. Basic capacity
+Answer: Type of vehicle
+135. grade and curvature sight limitations
+A. Surface polish
+B. Object Height
+C. Road surface
+D. Road geometry
+Answer: Road geometry
+136. sealed or unsealed, smooth or rough Road illumination at night Each type of sight distance
+consists of three elements: Driver Eye Height Object Height Sight Distance There are two
+components in stopping sight distance:
+A. Microscopic
+B. Time sharing
+C. Storm Surge
+D. Road surface
+Answer: Road surface
+137. the distance traveled while the driver perceives a hazard, decides to take action, then acts by
+starting to apply the brakes to start slowing down; and
+A. Diagonal Markings
+B. Reaction distance
+C. Temporary Curbing
+D. Absolute Pressure
+Answer: Reaction distance
+138. the distance required for the vehicle to slow down and stop Four different criteria used for the
+establishment of sag vertical curves: Headlight sight distance Passenger comfort Drainage control
+General appearance PPA has used MLLW as the datum line for design of port facilities in
+accordance with charts. But there are many ports of which low tide go down very often below
+MLLW. For instance: (Port Cebu) According to the tide table (1991) of NAMRIA, the frequency of
+tide below MLLW is 213 times/year and the maximum amount of the value is -0.51 m. Under this
+condition it is dangerous for ships to utilize the port. Shoulder paving is a valuable method of
+providing: Integrity of the pavement Width to place edgeline pavement markings Additional safety
+to prevent vehicles skidding or drivers losing control in gravel. Low maintenance costs compared
+with unpaved shoulders Element of Berthing Facility: Planned Water Depth Design Water Depth
+Coping/Crown Elevation
+A. Braking distance
+B. Weaving conflicts
+C. Skid resistance
+D. Mooring dolphins
+Answer: Braking distance
+139. Standard Part, Approach Part Width of Apron Slope of Apron There are four types of escape
+ramps: Sand Pile Descending Grade Horizontal Grade Ascending Grade Types of intersections
+that generally exist on the road network are: Unflared and unchannelized intersections (without
+widening or traffic islands) Flared and unchannelized intersections (with widening but without
+traffic islands) and Channelized intersections (traffic islands to guide traffic) Principles of good
+design to reduce the likelihood of traffic accidents include: Minimize the speed of vehicles at
+potential collision points Review Innovations
+A. Pascal
+B. Shear
+C. Period
+D. Length
+Answer: Length
+140. which are those laid in the direction of travel. These include:
+A. Pavement deflection
+B. a. Longitudinal Lines
+C. Joint or crack spailling
+D. Archimedes Principle
+Answer: a. Longitudinal Lines
+141. used to separate opposite traffic movements of an undivided roadway and is generally placed
+centrally on all roads and bridges 6.0 m or more in width. A center line may be marked on an urban
+or rural road if one or more of the following conditions are met: - Two lane road (greater than 6 m
+in width) carrying an annual average daily traffic (ADT) in excess of 1000 vehicles; - Two lane road
+(less than 6 m but more than 5 m in width) carrying an ADT in excess of 300 vehicles; and, -
+Winding roads with widths of 5 m or more. Irrespective of these warrants, marking of other
+sections may be desirable where one of the following conditions is present: - Frequent horizontal
+or vertical curves, or both; - Sub-standard curves; - In areas subject to fog; - On approaches to
+major roads; - Where accident record indicates the need for center lines; - Continuity of arterial
+road; and, - Heavy night traffic or tourist traffic, or both.
+A. Center Line
+B. Design Speed
+C. Sea island
+D. Plain view
+Answer: Center Line
+142. broken lines used to separate adjacent lanes of traffic moving in the same direction. Lane
+Lines must not be continued on the following cases: - Across signalized intersections. However,
+lane lines of low priority road must be discontinued at the intersection; - Across side street
+entrances unless the street is one-way street (going in only); - Past the start of the taper at which a
+multi-lane road narrows down. Barrier Lines may consist of either:
+A. Raveling
+B. Plain view
+C. Interval
+D. Lane Line
+Answer: Lane Line
+143. should only be used where overtaking from both directions of the road and all crossing
+movements are prohibited.
+A. Do Not Block Intersection' Lines
+B. Double Unbroken Yellow Line
+C. Facility oriented organization
+D. Right Turn Slip Lanes
+Answer: Double Unbroken Yellow Line
+144. should be used where overtaking from both directions of the road are prohibited. However,
+crossing movements are permitted. Single Yellow Line with a Broken White
+A. Intergranular Stress
+B. Active earth pressure coefficient
+C. Loading/Unloading Restrictions
+D. Single Unbroken Yellow Line
+Answer: Single Unbroken Yellow Line
+145. combinations of an unbroken yellow line and a white separation line have the same regulatory
+significance as a double unbroken yellow line for vehicles proceeding in the direction where the
+unbroken yellow line appears on the right of the markings, but vehicles traveling in the other
+direction are permitted to cross this line. The following are the cases where barrier lines should be
+used: - As center lines on approaches to signalized intersections; - As center lines of multi-lane
+roads where overtaking must be prohibited, because of sight restrictions; - `No-Passing' zones
+where there is a restricted sight distance due to horizontal or vertical curves, or both; - As center
+lines on approaches to railway crossings.
+A. Line
+B. Wind
+C. Cycle
+D. Period
+Answer: Line
+146. shall be established at vertical and horizontal curves and Review Innovations
+A. No Passing Zone
+B. Breaking waves
+C. Flashing Lamps
+D. Queue Discipline
+Answer: No Passing Zone
+147. lane highways, where passing must be prohibited because of dangerously restricted sight
+distance or other hazardous conditions.
+A. elsewhere on two and three
+B. Velocity of wave propagation
+C. Bleeding or flushing
+D. Special Instruction Signs
+Answer: elsewhere on two and three
+148. used to delineate the edge of the traveled way to distinguish it from the shoulder area. It
+should be a solid white line between 100 mm and 200 mm wide. Studs or raised pavement markers
+may be used in conjunction with edge lines where there are paved shoulders. The purpose of
+installing edge lines is generally based on the following: - To discourage travel on road shoulders;
+- To make driving safer and more assured, particularly at night and during inclement weather by
+providing continuous guide for the driver; - To act as a guide past objects which are close to the
+edge of pavement and which constitute a hazard; - To prevent parking at or near intersections.
+A. Time Gaps
+B. Edge Line
+C. Interval
+D. Toughness
+Answer: Edge Line
+149. used to indicate that portion of a carriageway assigned to through traffic. It is intended to be
+crossed by traffic turning at an intersection, or entering or leaving an auxiliary lane at its start or
+finish.
+A. Major head loss
+B. Vertical curve
+C. No Passing Zone
+D. Continuity Line
+Answer: Continuity Line
+150. used to guide traffic safely past obstructions on roadways such as islands, median strips,
+bridge piers or indicate changes in the width of the traveled portion of the roadway and an
+increase or reduction in traffic lanes.
+A. Wave refraction
+B. Reaction distance
+C. Transition Lines
+D. Diagonal Markings
+Answer: Transition Lines
+151. which are laid across the direction of travel. These include:
+A. Distance separation
+B. b. Transverse Lines
+C. Crossing conflicts
+D. Merging conflicts
+Answer: b. Transverse Lines
+152. indicates the position beyond which the vehicles should not proceed when required by
+control devices like signals or by traffic police.
+A. Barriers
+B. Delineator
+C. Stop Line
+D. Elevation
+Answer: Stop Line
+153. markings consisting of a two adjacent broken white lines across the carriageway at which
+drivers must give way to all traffic. Pedestrian Crossing Markings
+A. Breaking waves
+B. Give Way Line
+C. Traffic cone
+D. Basic capacity
+Answer: Give Way Line
+154. consists of series of longitudinal bars. The bars are placed parallel to the road center line with
+gaps of equal width to the bar. Crosswalks (signalized crossing) - defined by a pair of solid white
+lines across the road surface. They should be used in conjunction with mid-block or intersection
+signals.
+A. Zebra (non-signalized crossing)
+B. Velocity of wave propagation
+C. Right Turn Slip Lanes
+D. Superelevation diagram
+Answer: Zebra (non-signalized crossing)
+155. holding lines at roundabouts shall consist of broken reflectorized white line. The leading edge
+of the holding line forms a prolongation of the curb and the painted outline of the traffic island on
+the approach. c. Other Lines
+A. Superelevation diagram
+B. Magnitude of earthquake
+C. Reciprocal of stiffness
+D. Roundabout Holding Lines
+Answer: Roundabout Holding Lines
+156. may be used to guide vehicles through a turning movement at intersections. Turn lines, if
+used, should be so designed as to indicate the proper course for turning vehicles without being
+needlessly confusing to through traffic or the traffic making other turns.
+A. Resilience
+B. Homogenous
+C. Turn Lines
+D. Delineators
+Answer: Turn Lines
+157. there are two types of parking bays: parallel parking and angle parking.
+A. Parking Bay Lines
+B. Vertical alignment
+C. Asphatic Concrete
+D. Relative Pressure
+Answer: Parking Bay Lines
+158. painted median islands are used on wide roads where light traffic volume cannot justify the
+installation of solid curbed median island.
+A. Continuity Line
+B. Derived Utility
+C. Traffic volume
+D. Painted Median
+Answer: Painted Median
+159. an unbroken yellow line used to separate other vehicles from buses and PUJ's.
+A. Breasting dolphins
+B. Bus and PUJ Lane line
+C. Horizontal Control
+D. Joint or crack spailling
+Answer: Bus and PUJ Lane line
+160. an unbroken white line used to indicate the proper location of loading and unloading zone of
+public utility vehicles preferably with parking restriction.
+A. Loading and Unloading Bay Lane Line
+B. Bus and PUJ Lane line
+C. b. Transverse Lines
+D. elsewhere on two and three
+Answer: Loading and Unloading Bay Lane Line
+161. consist of yellow box within the intersection and yellow diagonal lines forming an `X' inside
+the box. d. Other Markings Approach Markings to Islands and
+A. b. Mean Low Water (MWL)
+B. Triple alternate system
+C. Do Not Block Intersection' Lines
+D. Traffic-responsive systems
+Answer: Do Not Block Intersection' Lines
+162. diagonal marking on approaches to obstructions and median islands shall consist of a
+splayed line or lines extending from the center of lane line to a point to the right side or to both
+sides, of the approach end of the obstruction.
+A. Slobing robe
+B. Delineators
+C. Obstructions
+D. Gravity waves
+Answer: Obstructions
+163. often used to guide traffic into the right turning lanes separated by an island, such as a corner
+island at a signalized intersection.
+A. Exit Ramp Marking
+B. Pavement Arrows
+C. Chevron Markings
+D. Major head loss
+Answer: Chevron Markings
+164. are placed on a sealed shoulders or other sealed portion of the road where traffic is not
+desired. Review Innovations
+A. Diagonal Markings
+B. Geometric Design
+C. Horizontal Control
+D. Transition curves
+Answer: Diagonal Markings
+165. a type of thermoplastic lane marking designed to aid and provide motorists with visual, audio
+and motion warnings on the road. Rumble strips are highly visible horizontal lines on the road that
+produce a humming sound and ample bumpy ride to the motorists when ran over. It promotes
+better traffic safety because it stimulates more the human sense while driving. Marking on Exit and
+Entrance Ramps of Expressways
+A. Rumble Strips
+B. Average speed
+C. Profile grade
+D. Obstructions
+Answer: Rumble Strips
+166. a solid line shall be placed along the sides of the triangular neutral area between the edges of
+the main roadway and the exit ramp lane at the gore of every ramp terminal.
+A. Pavement roughness
+B. Space-time diagram
+C. Exit Ramp Marking
+D. Releiving platform
+Answer: Exit Ramp Marking
+167. a solid white line shall be placed along the side of the triangular neutral area adjacent to the
+ramp lane at the gore of every entrance ramp terminal. Curb Markings for Parking and
+A. Size B for rural roads
+B. Mixed diurnal tides
+C. Entrance Ramp Marking
+D. Signal Coordination
+Answer: Entrance Ramp Marking
+168. The curb markings for parking restrictions shall be of solid yellow color, covering the face of
+the curb. Such markings are usually supplemented by parking prohibition signs to indicate the
+extent of the area where parking is legally prohibited at all times. On the other hand, curb markings
+for loading/unloading restrictions shall be of solid red color applied in the same manner as with
+parking restrictions. Approach to Railroad Crossing - Pavement markings consisting of a cross,
+the letters RR, a `No Passing' zone marking, and a double solid stop bar shall be placed on all
+paved approaches to level or at-grade railroad crossing. Such markings shall be white except the
+NO PASSING barrier line which shall be yellow.
+A. Actions available to the driver
+B. Trip Assignment Models
+C. Archimedes Principle
+D. Loading/Unloading Restrictions
+Answer: Loading/Unloading Restrictions
+169. the symbol used to supplement the give way sign consists of an isosceles triangle.
+A. Grade separation
+B. Minor head loss
+C. Painted Median
+D. Give Way Symbol
+Answer: Give Way Symbol
+170. are white in color, used for lane use control.
+A. Space mean speed
+B. Clearance Time
+C. Derived Utility
+D. Pavement Arrows
+Answer: Pavement Arrows
+171. The only numerals that should be used are those associated with speed limits at locations to
+supplement speed limit signs which are continuously disregarded by drivers or which are
+obscured and cannot be read easily.
+A. Numerals
+B. Plan View
+C. Wind rose
+D. Drainage
+Answer: Numerals
+172. small devices which are fixed to the concrete pavement surface to stimulate or supplement
+painted pavement markings. Because of the high cost of installation and maintenance, use of
+raised pavement markers may be considered only in the following conditions: - In hilly areas
+where fog and rain are frequently the causes of traffic accidents; and, - In winding roads and
+accident-prone areas. Review Innovations
+A. Shallow water waves
+B. Raised Pavement Markers
+C. Signal Coordination
+D. Drip track raveling
+Answer: Raised Pavement Markers
+173. the observed eye height of a driver; -
+A. Space-time diagram
+B. Driver Eye Height
+C. Parking Bay Lines
+D. Breasting dolphins
+Answer: Driver Eye Height
+174. a possible object in the path of a vehicle; -
+A. Traffic Signs
+B. Object Height
+C. Rail Anchors
+D. Beuforts Scale
+Answer: Object Height
+175. dependent on design speed and vehicle type. It is a major road safety design control when
+determining the horizontal and vertical geometric alignment for a new or rehabilitation design.
+Stopping Sight Distance There are two components in stopping sight distance: -
+A. Mean free speed
+B. Sight Distance
+C. Continuity Line
+D. Perception time
+Answer: Sight Distance
+176. a vectoral speed of convergence of the vehicles in a conflict maneuver. Low relative speed
+conditions at intersections can be obtained by: - Choosing a layout where conflicting movements
+cross at angles less than or equal to 90 degrees; - Providing a layout or alignment that slows down
+approaching vehicles; and - Providing deceleration lanes. Turning Lanes Provision for turning
+lanes can generally be provided in the following ways: - Shared turning and through lane; - Flaring
+and taper; or - Separate lane for deceleration and storage
+A. Mean free speed
+B. Traffic Signs
+C. Specifications
+D. Relative Speed
+Answer: Relative Speed
+177. provided to minimize the delays for right turning vehicles and to make the right turn
+movement easier and safer. A traffic island is provided with this treatment to: - Guide traffic into
+defined paths; - Separate through, turning and opposing traffic movements; - Give advance
+warning of the intersection to approaching drivers; - Provide refuge for pedestrians; and - Prohibit
+undesirable or unnecessary traffic movements
+A. Longitudinal cracking
+B. Immediate water waves
+C. Right Turn Slip Lanes
+D. Crossing conflicts
+Answer: Right Turn Slip Lanes
+178. consists of a circular island in the middle of an intersection and traffic moves around it in an
+anticlockwise direction. Roundabouts may be appropriate in the following situations: - At
+intersections with high accident rate; - When physical control of speed is desirable; - When the
+flow on each approach are balanced and capacity analysis indicates that volumes can be
+managed; - When the volume of left turners is significant; Review Innovations
+A. Tidal bores
+B. Roundabouts
+C. Time Points
+D. Settlement
+Answer: Roundabouts
+179. provides a balance between recovery area for every errant vehicle, the cost of providing that
+area, and the probability of an errant vehicle encountering a hazard. Roadside and Median Safety
+Barriers The warrant for the use of safety barriers can be established considering: - Fore slope or
+back slope steepness and height; - Unforgiving hazards within the clear zone; and - Water hazard
+within the clear zone.
+A. Breakwater
+B. Clear Zone
+C. Tack coat
+D. Elasticity
+Answer: Clear Zone
+180. A protected water area to provide safe and suitable accommodation for ships for the transfer
+of cargo, refueling, repairs, etc. Harbors may be subdivided into: a. Natural harbors: harbors
+protected from storms and waves by the natural consguration of the land. b. Semi-natural harbors:
+harbors with both natural and artiscial protection. c. Artiscial harbors: harbors protected from the
+effect of waves by means of breakwaters, or harbors created by dredging.
+A. Merging
+B. Flow
+C. Bollard
+D. Harbor
+Answer: Harbor
+181. A sheltered place where the ship may receive or discharge cargo. It includes the harbor with
+its approach channels and anchorage places. Ports may be subdivided into: a. Ocean ports: ports
+located on coasts, tidal estuaries or river mouths where the port can be reached directly by
+ocean-going ships. b. Inland waterway ports: ports located on navigable rivers, channels and
+lakes.
+A. Shear
+B. Berth
+C. Port
+D. Column
+Answer: Port
+182. a navigable channel in a harbor, offshore etc; the usual course taken by vessels in such
+places.
+A. Clapotis
+B. a. Wharf
+C. Fairway
+D. Moonson
+Answer: Fairway
+183. A place where the ship can moor. In the case of a quay or jetty structure, it will include the
+section of the structure where labor, equipment and cargo move to and from the ship.
+A. Base
+B. Gates
+C. Berth
+D. Weir
+Answer: Berth
+184. An artiscial landing place for the loading and unloading of ships. Berth structures can be
+subdivided into:
+A. Poisson's Ratio
+B. Berth structure
+C. Type of vehicle
+D. Hydraulic Jump
+Answer: Berth structure
+185. A continuous structure built parallel to along the margin of the sea or alongside riverbanks,
+canals, or waterways where vessels may lie alongside to receive or discharge cargo, embark or
+disembark passengers or lie at rest.
+A. a. Wharf
+B. Occupancy
+C. Steepness
+D. Pavement
+Answer: a. Wharf
+186. this term can be substituted to wharf when applied to great solid structures in large ports. In
+stability calculation of gravity type quaywall, the following matters should be examined: (a) Sliding
+of the wall (b) Bearing capacity of foundation (c) Overturning of the wall (d) Circular slip and
+settlement
+A. Trip
+B. Numerals
+C. Quay
+D. Phase
+Answer: Quay
+187. Any structure built into the sea but not parallel to the coastline and includes any stage, stair
+landing place, landing stage jetty, floating barge, and pontoon, any bridge or other works
+connected there with.
+A. Merging
+B. Yielding
+C. b. Pier
+D. Fairway
+Answer: b. Pier
+188. a landing stage or small pier at which boats can dock or be moored. c. Dolphin: a berth
+structure for mooring the ship on the open sea; An isolated piled or gravity structure used either to
+maneuver a ship or to facilitate holding it in position at its berth.
+A. Quay
+B. Jetty
+C. Swell
+D. Pier
+Answer: Jetty
+189. a type of dock consisting of a rectangular basin dug into the shore of a body of water and
+provided with a removable enclosure wall or gate on the side toward the water, used for major
+repairs and overhaul of vessels. Review Innovations
+A. Dry Dock
+B. Amplitude
+C. Profile
+D. Elevation
+Answer: Dry Dock
+190. is the average of the sea water surface for all stages of the tide over a 19-year period.
+A. Limit of Economic Haul
+B. Signal Coordination
+C. a. Mean Sea Level (MSL)
+D. Geoemtric cross section
+Answer: a. Mean Sea Level (MSL)
+191. is the height of the low water over a 19-year period.
+A. Operating organization
+B. Water bound macadam
+C. Flexible Post or Bollard
+D. b. Mean Low Water (MWL)
+Answer: b. Mean Low Water (MWL)
+192. is the average height of the lower low waters over a 19-year period.
+A. Hydraulic grade line
+B. c. Mean Lower Low Water (MLLW)
+C. Guide Signs (Informative Signs)
+D. Geoemtric cross section
+Answer: c. Mean Lower Low Water (MLLW)
+193. is the average height of the high waters over a 19-year period. e. Mean Higher High Water
+(MHHW) - is the average height of the higher high water over a 19-year period. Storm Surge is
+abnormal rise of the sea level that occurs when a typhoon passes by. This rise above normal level
+on this open coast is due to atmosphere pressure reduction as well as that due to wind stress.
+Tsunamis are wave with an extremely long period that mainly occur when there is a sudden
+large-scale sea floor movement usually associated severe, shallow focus earthquake. Review
+Innovations
+A. d. Mean High Water (MHW)
+B. Signal Coordination
+C. Operating organization
+D. Double alternate system
+Answer: d. Mean High Water (MHW)
+194. wherever the existing ground is above the constructed section.
+A. Vertical alignment
+B. Cut or Excavation
+C. Braking distance
+D. Absolute Pressure
+Answer: Cut or Excavation
+195. wherever the existing ground is below the constructed section, the construction is said to
+involve -
+A. Braking distance
+B. Fill or Embankment
+C. Actual displacement
+D. Parking Bay Lines
+Answer: Fill or Embankment
+196. points at which the cut or fill slopes intersect the existing ground.
+A. Delineators
+B. Road geometry
+C. Catch Points
+D. Lag distance
+Answer: Catch Points
+197. points at which the cut or fill slopes intersect the nearly horizontal roadway surface
+A. Water hammer
+B. Hinge Points
+C. Wave height
+D. Swells Waves
+Answer: Hinge Points
+198. graph of cumulative volume of earthwork versus distance in stations from the beginning of
+the job, in which cut is considered to be positive and fill negative.
+A. Eccentricity
+B. Storm Surge
+C. Intellection
+D. Mass Diagram
+Answer: Mass Diagram
+199. product of a volume of material times the average distance it is hauled.
+A. Haul
+B. Port
+C. Numerals
+D. Moonson
+Answer: Haul
+200. longest distance material should ever be hauled.
+A. Space-time diagram
+B. Limit of Economic Haul
+C. Embedment depth (D)
+D. Magnitude of earthquake
+Answer: Limit of Economic Haul
+201. refers to establishment of horizontal and vertical alignments and cross section, based on
+considerations such as operating characteristics of vehicles, design standards, and drainage
+A. Roadwork Signs
+B. Space mean speed
+C. Geometric Design
+D. Mooring dolphins
+Answer: Geometric Design
+202. the distance required to see an object 0.15 m high on the roadway.
+A. Stopping Sight Distance
+B. Limit of Economic Haul
+C. Reciprocal of deflection
+D. Passing Sight Distance
+Answer: Stopping Sight Distance
+203. the distance required to see an oncoming vehicle of a certain minimum size.
+A. Torsional Shear Stress
+B. Bus and PUJ Lane line
+C. Passing Sight Distance
+D. pattern is red-red
+Answer: Passing Sight Distance
+204. defined as the maximum safe speed that can be maintained over a specified section of
+highway when conditions are so favorable that the design features of the highway govern.
+A. Tidal bores
+B. Design Speed
+C. Laminar Flow
+D. Traffic Signs
+Answer: Design Speed
+205. refers to drawings, usually accompanied by notes, of various aspects or components of the
+design.
+A. Plans
+B. Orifice
+C. Phase
+D. Weir
+Answer: Plans
+206. these are written instructions detailing how the facility is to be constructed.
+A. Embankment Dam
+B. Specifications
+C. Roadwork Signs
+D. Type of vehicle
+Answer: Specifications
+207. It include cost estimates for various parts of the project and are used to evaluate the
+acceptability of bids and the financial feasibility of the project.
+A. Guide sign
+B. Elevation
+C. Estimates
+D. Barriers
+Answer: Estimates
+208. a drawing of the facility as it would look to an observer directly above it.
+A. Batching
+B. Screeding
+C. Viscosity
+D. Plan View
+Answer: Plan View
+209. this drawing has elevation as its vertical axis, and horizontal distance, as measured along the
+centerline of the facility, as its horizontal axis.
+A. Pavement
+B. Tee head
+C. Weaving
+D. Profile
+Answer: Profile
+210. When such motion takes place along a single linear facility such as a roadway or a railway, it
+can often be represented by a graph known as _______________.
+A. Traverse cracking
+B. Space-time diagram
+C. Diagonal Markings
+D. Alligator cracking
+Answer: Space-time diagram
+211. It may be defined as the difference between the actual travel time on a given segment of a
+transportation system and some ideal travel time for that segment.
+A. Delay
+B. Bitt
+C. Trip
+D. Harbor
+Answer: Delay
+212. The difference between A(t) and D(t) represents aircraft that have arrived at the runway but
+have not begun (or completed) their takeoffs. These lines of aircraft waiting to be served is called a
+_________.
+A. Density
+B. Dam
+C. Fairway
+D. Queue
+Answer: Queue
+213. defined as the number of vehicles per unit time passing a point in space, and is usually
+expressed in vehicles per hour.
+A. Line
+B. Moonson
+C. Nozzle
+D. Flow
+Answer: Flow
+214. number of vehicles counted in a specified time interval.
+A. Column
+B. Turbine
+C. Length
+D. Volume
+Answer: Volume
+215. measured between common points on successive vehicles.
+A. Flow Line
+B. Headways
+C. Flexible
+D. Blowups
+Answer: Headways
+216. measured from the rear of one vehicle to the front of the next.
+A. Delineator
+B. Guide sign
+C. Time Gaps
+D. Steepness
+Answer: Time Gaps
+217. defined as the fraction of time that vehicles are present at a point in space.
+A. Diverging
+B. Lane Line
+C. Pavement
+D. Occupancy
+Answer: Occupancy
+218. the red, yellow, or green light that is displayed to drivers in a given movement.
+A. Bathymetry
+B. Indication
+C. Spot speed
+D. Time Points
+Answer: Indication
+219. The time required for one complete sequence of signal indications.
+A. Cycle
+B. Period
+C. Pascal
+D. Swell
+Answer: Cycle
+220. discrete portion of a cycle during which the indications do not change.
+A. Tee head
+B. Interval
+C. Gage Bars
+D. Drainage
+Answer: Interval
+221. portion of the cycle during which the movements with the right-of-way do not change.
+A. Queue
+B. Phase
+C. Flow
+D. Swell
+Answer: Phase
+222. the timing of signals in relationship to one another so that vehicles traveling at a
+predetermined speed can pass through the greens of successive signals.
+A. Hydraulic grade line
+B. Maximum free speed
+C. Signal Coordination
+D. Atmospheric pressure
+Answer: Signal Coordination
+223. speed at which vehicles are presumed to travel through the coordinated Review Innovations
+A. Speed Progression
+B. Temporary Curbing
+C. Queue Discipline
+D. Geometric Design
+Answer: Speed Progression
+224. time difference between beginning and end of the through band at any point.
+A. Tidal bores
+B. Band Width
+C. Sub grade
+D. Refraction
+Answer: Band Width
+225. The time difference between the beginnings of the greens at any two signals.
+A. Exit Ramp Marking
+B. Offset of the Cycle
+C. Driver Eye Height
+D. Water bound macadam
+Answer: Offset of the Cycle
+226. each signal displays the phase opposite that of the adjacent signals; thus the pattern, looking
+down the street at any instant of time, is red-green-red-green.
+A. Raised Pavement Markers
+B. Intergranular Stress
+C. Single alternate system
+D. Drip track raveling
+Answer: Single alternate system
+227. phases at two intersections are grouped together, so that the
+A. Pavement deflection
+B. Ultimate bearing capacity
+C. Double alternate system
+D. Reciprocal of stiffness
+Answer: Double alternate system
+228. green-green-red-red.
+A. Asphatic Concrete
+B. Pore water pressure
+C. pattern is red-red
+D. Vertical alignment
+Answer: pattern is red-red
+229. It groups three intersections and produce a pattern of red-red- red-green-green-green.
+A. Embedment depth (D)
+B. Entrance Ramp Marking
+C. Triple alternate system
+D. Geoemtric cross section
+Answer: Triple alternate system
+230. Employing minimum cycles are usually sufficient for platoon-breakup metering.
+A. Regulatory Signs
+B. Speed Progression
+C. Embedment depth (D)
+D. Fixed-time Systems
+Answer: Fixed-time Systems
+231. May respond to volumes measured upstream of the ramp, occupancies measured upstream of
+the ramp, occupancies measured downstream of the ramp, or some combinations of these.
+A. Do Not Block Intersection' Lines
+B. Traffic-responsive systems
+C. Immediate water waves
+D. Fixed mooring berth
+Answer: Traffic-responsive systems
+232. The time spent in decelerating and accelerating the vehicle and in opening and closing the
+doors.
+A. Give Way Symbol
+B. Policy Headways
+C. Object Height
+D. Clearance Time
+Answer: Clearance Time
+233. The time spent loading and unloading passengers.
+A. Dwell Time
+B. Diffraction
+C. Microscopic
+D. Drag Force
+Answer: Dwell Time
+234. Route schedules, or timetables, give the times that successive bused pass points called
+_______.
+A. Wave period
+B. Consistency
+C. Time Points
+D. Clear Zone
+Answer: Time Points
+235. considered to be the basic unit of travel behavior. It also involves movement from a single
+origin to a single destination, and are usually described in terms of their origins, destinations,
+purposed, times of occurrence, travel modes, and routes.
+A. Harbor
+B. Trip
+C. Bitt
+D. Dam
+Answer: Trip
+236. this means that the utility of any particular trip is partially dependent on the activity it makes
+possible, and the way in which that activity is valued by the individual.
+A. Wearing Surface
+B. Derived Utility
+C. Wearing coarse
+D. Specifications
+Answer: Derived Utility
+237. intended to predict the number of travelers using various routes and, hence, the traffic on the
+links of a transportation network.
+A. Trip Assignment Models
+B. Space-time diagram
+C. Distance separation
+D. pattern is red-red
+Answer: Trip Assignment Models
+238. So far, no explicit consideration has been given to the relationship between the order in which
+customers arrive demanding service and the order in which they are served. This relationship is
+referred to as the
+A. Temporary Curbing
+B. Queue Discipline
+C. Poisson's Ratio
+D. Diagonal Markings
+Answer: Queue Discipline
+239. Headways such that the vehicles are just filled at the maximum load point on the route.
+A. Crossing conflicts
+B. Cut or Excavation
+C. Capacity Headways
+D. Grade separation
+Answer: Capacity Headways
+240. Arbitrarily determined maximum headways intended to represent the minimum acceptable
+standard for frequency of service.
+A. Block cracking
+B. Policy Headways
+C. Time mean speed
+D. Skid resistance
+Answer: Policy Headways
+241. used to fasten rails together longitudinally.
+A. Joint Bars
+B. Plan View
+C. Drag Force
+D. Elevation
+Answer: Joint Bars
+242. Steel bars used to maintain gage (that is, horizontal separation between the rails) at critical
+locations such as curves and switches.
+A. Wind rose
+B. Plain view
+C. Isotropic
+D. Gage Bars
+Answer: Gage Bars
+243. used to resist the longitudinal motion of rails relative to ties.
+A. Gravity waves
+B. Rail Anchors
+C. Wave length
+D. Highest wave
+Answer: Rail Anchors
+244. a series of interconnected of interfaced cracks caused by fatigue failure of the asphalt
+concrete surface under repeated traffic loading
+A. Equipotential line
+B. Horizontal Control
+C. Semi diurnal tides
+D. Alligator cracking
+Answer: Alligator cracking
+245. the height between the trough and the crest of a wave
+A. Headways
+B. Isotropic
+C. Stop Line
+D. Amplitude
+Answer: Amplitude
+246. a layer consisting of properly designed mix od coarse aggregate fine aggregate, a filler and a
+bituminous binder
+A. Mooring dolphins
+B. Asphatic Concrete
+C. pattern is red-red
+D. Alligator cracking
+Answer: Asphatic Concrete
+247. the average of the spot speeds of all vehicles passing a given point in the highway
+A. Space headway
+B. Average speed
+C. Diurnal tides
+D. Obstructions
+Answer: Average speed
+248. the component of the road structure which receives the traffic load and transfer it to the
+subgrade
+A. Sea
+B. Groin
+C. Base
+D. Gates
+Answer: Base
+249. this normally consists of aggregates such as gravel and crushed rock
+A. Rail Anchors
+B. Distance gaps
+C. Base courses
+D. Traffic Signs
+Answer: Base courses
+250. the max number of passenger cars that can pads a given point on a lane or roadway during
+one hour under the most nearly ideal roadway and traffic conditions which can possible be
+attained
+A. Beuforts Scale
+B. Distance gaps
+C. Basic capacity
+D. Tangent run out
+Answer: Basic capacity
+251. process of proportioning cement, water, aggregates and additives prior to mixing concrete
+A. Yielding
+B. Blowups
+C. Batching
+D. Interval
+Answer: Batching
+252. the physical configuration of the seabed, the measurements of depths of water in the ocean,
+etc. and also information derived from such measurement
+A. Bathymetry
+B. Gage Bars
+C. Earthwork
+D. Turn Lines
+Answer: Bathymetry
+253. an instrument use to measure intensity of wind
+A. Distance gaps
+B. Vertical curve
+C. Traffic safety
+D. Beuforts Scale
+Answer: Beuforts Scale
+254. the mooring fitting for mooring ships during a storm installed close to the water line of the
+berth
+A. Barriers
+B. Seiche
+C. Bitt
+D. Tide
+Answer: Bitt
+255. a 20 mm thick premix bitumen layer over which is laid a seal coat
+A. Hydraulic Jump
+B. Object Height
+C. Bitumen carpet
+D. Compound curve
+Answer: Bitumen carpet
+256. the exuding of bitumen onto the pavement surface causing a reduction in skid resistance
+A. Metacentric height
+B. Superelevation diagram
+C. Bleeding or flushing
+D. Vertical alignment
+Answer: Bleeding or flushing
+257. cracks forming large interconnected polygons, usually with sharp corners or angles. These
+cracks are generally caused by hardening and shrinkage of the asphalt and/or reflection cracking
+from underlying layers such as cement treated base
+A. Block cracking
+B. Sight Distance
+C. Object Height
+D. Warning Signs
+Answer: Block cracking
+258. localized upward buckling and shattering of the slabs at traverse joins or cracks
+A. Pavement
+B. Fairway
+C. Blowups
+D. Flow Net
+Answer: Blowups
+259. the structure that protects harbor from stormy waves and permits calm in the harbor
+A. Breakwater
+B. Plasticity
+C. Indication
+D. Homogenous
+Answer: Breakwater
+260. waves which fall forward since the forward velocity of the crest particles exceeds the velocity
+of propagation of the wave itself. In deep water, this normally occurs when the wave length L is
+less than 7 times the wave height H (L < 7H) and in shallow water when the depth d is
+approximately equal to 1.25 H
+A. Diurnal tides
+B. Overhead Signs
+C. Retaining wall
+D. Breaking waves
+Answer: Breaking waves
+261. Type of dolphins which are designed to take the impact of the ship when docking and to hold
+the ship against a broadside wind. Therefore, they are provided with fenders to absorbed the
+impact of the ship and to protect the dolphin and the ship from damage.
+A. Capacity Headways
+B. Breasting dolphins
+C. Alligator cracking
+D. Fixed mooring berth
+Answer: Breasting dolphins
+262. a vertical post to which the eye of a morring line can be attached - the mooring fitting for
+mooring ships during a storm installed at the outside or outside/inside of the berth far from the
+waterline
+A. Faulting
+B. Flow Net
+C. Parkway
+D. Bollard
+Answer: Bollard
+263. these consist of two curves in the same direction separated by a short tangent
+A. Broken back curve
+B. Speed Progression
+C. pattern is red-red
+D. Give Way Symbol
+Answer: Broken back curve
+264. a structure for retaining or to prevent earth or fill from sliding into water
+A. Flow Net
+B. Viscosity
+C. Edge Line
+D. Bulkhead
+Answer: Bulkhead
+265. the maximum sustained 15 min rate of flow, expressed in passenger cars per hour per lane,
+which can be accommodated by a uniform freeway segment under prevailing traffic and roadway
+conditions in one direction
+A. b. Pier
+B. Viscosity
+C. Capacity
+D. Weaving
+Answer: Capacity
+266. the points at which the cut or fill slopes intersect the existing ground
+A. Wind waves
+B. Catch point
+C. Center Line
+D. Time Points
+Answer: Catch point
+267. these are usually laid out in the field by occupying the tangent to curve point TC with a transit
+and then establishing successive points by turning deflection angles and measuring chords
+A. Circular curves
+B. Type of vehicle
+C. Roadwork Signs
+D. Bitumen carpet
+Answer: Circular curves
+268. the pressure against a vertical wall due to waves
+A. Bulkhead
+B. Edge Line
+C. Clapotis
+D. Blowups
+Answer: Clapotis
+269. this term refers to any material consisting of a mixture of aggregates, such as sand, gravel, or
+crushed stone, fastened together by cement
+A. Concrete
+B. Sub grade
+C. Moonson
+D. Flexible
+Answer: Concrete
+270. these result when two curves of differing radius join one another
+A. Compound curve
+B. Mean free speed
+C. Berth structure
+D. Reaction time
+Answer: Compound curve
+271. joints provided in concrete cement pavement is suspended Continously reinforced concrete
+pavements - a type of rigid pavement, which has no transverse joints, except construction joints
+or expansion joints when they are necessary at specific positions such as at bridges. This type of
+pavement is typically used on high-volume, high-speed roadways
+A. Over consolidated
+B. Center of rigidity
+C. Construction joint
+D. Embedment depth (D)
+Answer: Construction joint
+272. this is the cost of any material that has to be obtained off job site in order to make a fill
+A. Basic capacity
+B. Vehicle dynamic
+C. Clearance Time
+D. Cost of borrow
+Answer: Cost of borrow
+273. this traffic conflict occurs when they cross paths directly
+A. Broken back curve
+B. Parking Bay Lines
+C. Crossing conflicts
+D. Merging conflicts
+Answer: Crossing conflicts
+274. these are normally specified in m/m or in percentages. In railway practice, cross slopes may
+be expressed in millimeters that the high rail is above the low rail, since there is a standard
+horizontal distance maintained between rails
+A. Leeward side
+B. Orthotropic
+C. Neap tides
+D. Cross slope
+Answer: Cross slope
+275. the process of providing the required water and maintaining a favorable temperature for a
+period of time after placing concrete
+A. Harbor
+B. Fairway
+C. Curing
+D. Batching
+Answer: Curing
+276. primary consideration in the design of geometric cross sections for highways, runways, and
+taxi ways
+A. Profile
+B. Flow Line
+C. Drainage
+D. Emotion
+Answer: Drainage
+277. waves in which the ratio of water depth to the wavelength is greater than 0.5
+A. Space mean speed
+B. Painted Median
+C. Give Way Symbol
+D. Deep water waves
+Answer: Deep water waves
+278. light retro reflecting devices mounted at the side of the roadway in series to indicate the
+roadway alignment
+A. Delineator
+B. Delineators
+C. Guide sign
+D. Cross slope
+Answer: Delineator
+279. it is defined as the number of vehicles per unit distance occupying a thsection of roadway at a
+given instant time and is usually measured in vehicles per mile or per km
+A. Fairway
+B. Berth
+C. Queue
+D. Density
+Answer: Density
+280. the spread of energy along a wave crest
+A. Diffraction
+B. Bathymetry
+C. Intellection
+D. Story Drift
+Answer: Diffraction
+281. defined as the fraction of time that vehicles are present at a point in space
+A. Distance gaps
+B. Intellection
+C. Basic capacity
+D. Flashing Lamps
+Answer: Distance gaps
+282. the reciprocal of density which is usually measure in vehicles per mile or per kilometer
+A. Temporary Curbing
+B. Exit Ramp Marking
+C. Distance separation
+D. Shallow water waves
+Answer: Distance separation
+283. tide which occurs only one high tide a day
+A. Diurnal tides
+B. Gravity waves
+C. Traffic volume
+D. Running speed
+Answer: Diurnal tides
+284. the process by which a vehicle in a traffic stream leaves that traffic stream, such as a vehicle
+leaving the outside lane if an expressway
+A. Isotropic
+B. Edge Line
+C. Elevation
+D. Diverging
+Answer: Diverging
+285. this traffic conflict occurs when vehicles leave the traffic stream
+A. Cut or Excavation
+B. Offset of the Cycle
+C. Diverging conflicts
+D. Entrance Ramp Marking
+Answer: Diverging conflicts
+286. progressive disintegration of the surface between the heel paths caused by dripping of a
+gasoline or oil from vehicles
+A. Drip track raveling
+B. Releiving platform
+C. Entrance Ramp Marking
+D. Reaction distance
+Answer: Drip track raveling
+287. the time that a wind blows across the water
+A. Concrete
+B. Duration
+C. a. Wharf
+D. Discharge
+Answer: Duration
+288. these quantities are normally expressed as volumes, in metric units, they are given in cubic
+meters
+A. Joint Bars
+B. Edge Line
+C. Bathymetry
+D. Earthwork
+Answer: Earthwork
+289. these are in meters above some datum; usually this datum is mean sea level, but it may be
+any arbitrary scale
+A. Faulting
+B. Elevation
+C. Tack coat
+D. Barriers
+Answer: Elevation
+290. the time linked with the two stages perception and intellection based on a particular traffic
+situation like fear or anger which has a vital influence on the final message or decision sent by the
+brain to the muscle
+A. Occupancy
+B. Parkway
+C. Merging
+D. Emotion
+Answer: Emotion
+291. divided arterial highway for through traffic with full or partial control of access and generally
+with grade separations at major intersection
+A. Bathymetry
+B. Earthwork
+C. Elasticity
+D. Expressway
+Answer: Expressway
+292. primarily involved in planning designing, constructing, maintaining, and operating fixed
+facilities
+A. Factor of safety or safety factor
+B. c. Mean Lower Low Water (MLLW)
+C. Facility oriented organization
+D. Guide Signs (Informative Signs)
+Answer: Facility oriented organization
+293. elevation difference between adjacent slabs at traverse joints. This is usually the result of
+pumping and is a major source of Portland concrete pavement
+A. Flow Line
+B. Stop Line
+C. Gage Bars
+D. Faulting
+Answer: Faulting
+294. the distance that the wind blows over the sea in generating the waves is known as:
+A. Seiche
+B. Fetch
+C. Dam
+D. Merging
+Answer: Fetch
+295. A marine structure consisting of dolphins for tying up the ship and a platform for supporting
+the cargo handling equipment.
+A. Crossing conflicts
+B. Horizontal tangents
+C. Construction joint
+D. Fixed mooring berth
+Answer: Fixed mooring berth
+296. a pavement which has negligible flexural strength
+A. Headway
+B. Tsunamis
+C. Flexible
+D. Orifice
+Answer: Flexible
+297. the cost of excavation normally includes the cost of removing the material from its existing
+state, hauling it up to some specified distance
+A. Free haul distance
+B. Structural number
+C. Semi diurnal tides
+D. Fill or Embankment
+Answer: Free haul distance
+298. Th headway in a major stream, which is evaluated by a vehicle driver in a minor stream who
+wishes to merge into the major stream
+A. Tide
+B. Dam
+C. Gap
+D. Swell
+Answer: Gap
+299. this view has elevation as its vertical axis and horizontal distance, measured perpendicular to
+the centerline, as its horizontal axis
+A. Mixed diurnal tides
+B. Offset of the Cycle
+C. Geoemtric cross section
+D. Single alternate system
+Answer: Geoemtric cross section
+300. these are sometimes used in constructing pavements. These are used to add strength, control
+moisture, and prevent the movement of fine materials into drainage layers
+A. Geotextiles
+B. Wave Crest
+C. Spot speed
+D. Sea island
+Answer: Geotextiles
+301. expressed as decima fractions or as percentages
+A. Mole
+B. Grade
+C. Jetty
+D. Delay
+Answer: Grade
+302. these traffic solutions eliminates the crossing conflicts by placing the conflicting traffic
+streams at different elevations at their point of intersection
+A. Grade separation
+B. Reynolds Number
+C. Major head loss
+D. Circular curves
+Answer: Grade separation
+303. Waves are formed by the frictional drag of wind across the water surface. This is a process of
+transferring energy from wind to water. Water particles are moved from their position by the wind,
+and then returned to the original position by gravity, which is a restoring force.
+A. Gravity waves
+B. Time sharing
+C. Running speed
+D. Average speed
+Answer: Gravity waves
+304. a shore protection structure usually built perpendicular to the coastline to retard littoral
+transport of sedimentary materials
+A. Harbor
+B. Groin
+C. Dam
+D. Cycle
+Answer: Groin
+305. inform and advice road users of directions, distance, routes, the location of services and
+points of interests
+A. Settlement
+B. Gage Bars
+C. Guide sign
+D. Metacenter
+Answer: Guide sign
+306. the reciprocal of flow is the average time separation in the traffic stream and is usually
+measured in seconds
+A. Flow Net
+B. Concrete
+C. Headway
+D. Estimates
+Answer: Headway
+307. A maximum wave height and wave period of the maximum wave height in wave train.
+A. Highest wave
+B. Distance gaps
+C. Cross slope
+D. Water hammer
+Answer: Highest wave
+308. this type of control on the object on the job site is commonly identified as primary, secondary
+and working
+A. Construction joint
+B. Horizontal Control
+C. Regulatory Signs
+D. Mixed diurnal tides
+Answer: Horizontal Control
+309. these are described in terms of their lengths and their directions
+A. Atmospheric pressure
+B. Semi diurnal tides
+C. Construction joint
+D. Horizontal tangents
+Answer: Horizontal tangents
+310. waves in which the ratio of water depth to the wave length is less than 0.5 but greater than
+0.40
+A. Transitional water wave
+B. Pore water pressure
+C. Immediate water waves
+D. Bus and PUJ Lane line
+Answer: Immediate water waves
+311. after perception occurs, the formation of new thoughts and ideas, recalling old memories of
+similar occasions to a particular traffic situation
+A. Intellection
+B. Warning Signs
+C. Rumble Strips
+D. Reaction time
+Answer: Intellection
+312. the breakdown or disintegration of slab edges at joints or cracks, usually resulting in the ;ss
+of sound concrete and the progressive widening of the joint or crack
+A. Raised Pavement Markers
+B. Joint or crack spailling
+C. Plain concrete pavement
+D. Bleeding or flushing
+Answer: Joint or crack spailling
+313. distanced traveled by the vehicle during the total reaction time
+A. Center Line
+B. Diurnal tides
+C. Tidal bores
+D. Lag distance
+Answer: Lag distance
+314. the opposite side of a structure facing the direction from which the wind comes
+A. Time Points
+B. Center Line
+C. Liquefaction
+D. Leeward side
+Answer: Leeward side
+315. cracks approximately at right angles to the pavement center line. These are caused by poorly
+constructed construction joints and shrinkage of the asphalt concrete surface; they may also be
+reflective cracks
+A. Single alternate system
+B. Transitional water wave
+C. Mixed diurnal tides
+D. Longitudinal cracking
+Answer: Longitudinal cracking
+316. a mixture of bitumen, fine aggregate and filler in suitable proportion heated to about 200 C in
+special cooker and laid
+A. Mastic asphalt
+B. Overhead Signs
+C. Skid resistance
+D. Type of vehicle
+Answer: Mastic asphalt
+317. the maximum speed that cab be attained on a highway as the flow tends to zero
+A. Actual displacement
+B. Diagonal Markings
+C. Maximum free speed
+D. Equipotential line
+Answer: Maximum free speed
+318. the maximum speed that can be attained on a highway as the flow tend to be zero
+A. Derived Utility
+B. Mean free speed
+C. Traffic safety
+D. Give Way Symbol
+Answer: Mean free speed
+319. the process by which a vehicle in on traffic stream joins another traffic steam moving in the
+same direction such as a ramp vehicle joining a freeway stream
+A. Flexible
+B. Capacity
+C. Merging
+D. Pascal
+Answer: Merging
+320. this traffic occurs when vehicles enter a traffic stream
+A. Continuity Line
+B. Traverse cracking
+C. Significant wave
+D. Merging conflicts
+Answer: Merging conflicts
+321. these models of traffic flow describe the relationship among flow, speed and density
+A. Time sharing
+B. Rail Anchors
+C. Macroscopic
+D. Expressway
+Answer: Macroscopic
+322. these models of traffic flow describe the motion of individual vehicles and their interactions
+with one another
+A. Time sharing
+B. Plain view
+C. Orthotropic
+D. Microscopic
+Answer: Microscopic
+323. if one of the two daily tide is incomplete that is it does not reach the height of the previous
+tide, then the tides
+A. Mixed diurnal tides
+B. Speed Progression
+C. Releiving platform
+D. Entrance Ramp Marking
+Answer: Mixed diurnal tides
+324. A breakwater is a structure constructed for the purpose of forming an artificial harbor with a
+water area so protected from the effect of sea waves as to provide safe shipping. When a
+accommodations for breakwater supports a roadway
+A. Mole
+B. Bitt
+C. Jetty
+D. Curing
+Answer: Mole
+325. prevailing winds which are seasonal blowing in one direction over part of the year and in the
+opposite direction the remainder of the year
+A. Blowups
+B. Flow Net
+C. Period
+D. Moonson
+Answer: Moonson
+326. type of dolphins which are not designed for the impact of the ship, as they located in back of
+the face of the dock where they will not be hit. They are located about 45 off the bow and stern.
+A. Mooring dolphins
+B. Driver Eye Height
+C. Over consolidated
+D. Painted Median
+Answer: Mooring dolphins
+327. the lowest tide of the month when the line connecting the earth with sun and the moon form a
+right triangle that is when the moon is in its quarters
+A. Shoulders
+B. Roundabouts
+C. Drag Force
+D. Neap tides
+Answer: Neap tides
+328. known as carriers, primarily concerned with operating fleets to provide transportation
+services
+A. pattern is red-red
+B. Special Instruction Signs
+C. Single and double pillar
+D. Operating organization
+Answer: Operating organization
+329. signs which provide means of displaying essential traffic information on wide multilane roads,
+where some degree of lane use control is required or where side of road clearance is insufficient to
+accommodate a road side sign
+A. Beuforts Scale
+B. Traffic volume
+C. Overhead sign
+D. Road capacity
+Answer: Overhead sign
+330. an arterial highway for non- commercial traffic with full or partial control of access and usually
+located within park
+A. Length
+B. Nozzle
+C. Headways
+D. Parkway
+Answer: Parkway
+331. the layered structure placed over a soil sub grade for forming a road
+A. Parkway
+B. Elevation
+C. Pavement
+D. Lane Line
+Answer: Pavement
+332. refers to the structural adequacy of the pavement section
+A. Distance separation
+B. Offset of the Cycle
+C. Parking Bay Lines
+D. Pavement deflection
+Answer: Pavement deflection
+333. refers to the condition of a pavement in terms of its general appearance
+A. Parking Bay Lines
+B. Pavement distress
+C. Cut or Excavation
+D. Transition curves
+Answer: Pavement distress
+334. the measurement of the extent to which a road surface deviates from the plane
+A. Broken back curve
+B. Pavement roughness
+C. Center of rigidity
+D. Actual displacement
+Answer: Pavement roughness
+335. time required for transmission of the sensations received (through eyes, ears and body) to the
+brain and the spiral chord by the nervous system, to a particular traffic situation
+A. Vertical curve
+B. Perception time
+C. Relative Speed
+D. Pavement Arrows
+Answer: Perception time
+336. the interval of time for two wave crests to pass the same position in space
+A. Blowups
+B. Period
+C. Headway
+D. Capacity
+Answer: Period
+337. a berth structure projecting out from the shoreline
+A. Profile
+B. Gates
+C. Pier
+D. Power
+Answer: Pier
+338. a type of rigid pavement, which has no temperature steel or dowels for the load transfer. This
+type of pavement is used mainly on low volume highways or when cement stabilized soils are used
+as sub material
+A. Reciprocal of stiffness
+B. Raised Pavement Markers
+C. Special Instruction Signs
+D. Plain concrete pavement
+Answer: Plain concrete pavement
+339. this is a drawing of the facility as it would look to an bserver directly above it
+A. Cross slope
+B. Time Gaps
+C. Plain view
+D. Elasticity
+Answer: Plain view
+340. line representing the facility on the profile
+A. Compound curve
+B. Obstructions
+C. Average speed
+D. Profile grade
+Answer: Profile grade
+341. the max number of passenger cars that can pass a given point on a lane or roadway during
+one hour under prevailing roadway and traffic conditions
+A. Possible capacity
+B. Type of vehicle
+C. Vertical alignment
+D. Grade separation
+Answer: Possible capacity
+342. the max number of vehicles that can pads a given point on a lane or roadway during one hour
+without traffic density being so great as to cause unreasonable delay hazard or restrictions to the
+driver's freedom to maneuver under the prevailing roadway and traffic
+A. Practical capacity
+B. Fixed mooring berth
+C. Vertical alignment
+D. Free haul distance
+Answer: Practical capacity
+343. a layer of stone chipping coat laid over a hot to make the surface water proof conditions
+A. Hookes Law
+B. Wave Crest
+C. Prime coat
+D. Settlement
+Answer: Prime coat
+344. wearing away of the pavement surface caused by the dislodging of aggregate particles and
+binder
+A. Flexible
+B. Barriers
+C. Yielding
+D. Raveling
+Answer: Raveling
+345. the total time required for perception, intellection, emotion and volition that is from the instant
+the object comes in the line of sight of the driver to the instant he arrives a decision say to slow
+down or overtake, under normal circumstance
+A. Beuforts Scale
+B. Roadwork Signs
+C. Reaction time
+D. Relative Speed
+Answer: Reaction time
+346. the bending of waves as they slow down
+A. Expressway
+B. Sea island
+C. Refraction
+D. Edge Line
+Answer: Refraction
+347. a platform or deck structure built below the top deck level and supported on bearing piles.
+The main function of the platform is to reduce the lateral soil pressure over the upper portion of
+the sheet wall
+A. Hydraulic Gradient
+B. Speed Progression
+C. Embedment depth (D)
+D. Releiving platform
+Answer: Releiving platform
+348. the maximum number of passenger cars that can pass a given point on lane or roadway
+during one hour under the most nearly ideal roadway and traffic conditions which can possibly be
+attained
+A. Compound curve
+B. Base courses
+C. Design Speed
+D. Road capacity
+Answer: Road capacity
+349. the average speed maintained by a vehicle over a particular stretched of road, while the
+vehicle is in motion. This is obtained by dividing the distance covered by the time during which the
+vehicle is in motion
+A. Obstructions
+B. Sight Distance
+C. Base courses
+D. Running speed
+Answer: Running speed
+350. to level a floor or layer of concrete with a straight edge using a back and forth motion while
+moving across the surface
+A. Screeding
+B. Clear Zone
+C. Resonance
+D. Clapotis
+Answer: Screeding
+351. waves under the influence of the winds that generated them
+A. Headway
+B. Gates
+C. Pascal
+D. Sea
+Answer: Sea
+352. a berth structure with no direct connection to the shore, at which the ships can berth.
+Berthing can take place on either one or both sided of the structure
+A. Estimates
+B. Joint Bars
+C. Expressway
+D. Sea island
+Answer: Sea island
+353. a very thin surface applied over a bituminous pavement to make it impervious
+A. Occupancy
+B. Plan View
+C. Batching
+D. Seal coat
+Answer: Seal coat
+354. a very long-standing wave on a large but limited body of water (lake) generated by occurring
+when a storm dies down after producing a wind tide
+A. Creep
+B. Seiche
+C. Wharf
+D. Speed
+Answer: Seiche
+355. waves of this type have very long periods, typically from 30 sec. up to the tidal period of 12 hr.
+25 min. and are mostly found in enclosed or semi- enclosed basins such as artificial port basins or
+bays.
+A. Skid resistance
+B. Clearance Time
+C. Seiching waves
+D. Cost of borrow
+Answer: Seiching waves
+356. tides that occur twice its lunar day
+A. Merging conflicts
+B. Semi diurnal tides
+C. Regulatory Signs
+D. Shallow foundation
+Answer: Semi diurnal tides
+357. local sagging in the pavement caused by differential settlement, consolidation, or movement
+of the underlying earth mass
+A. Guide sign
+B. Diffraction
+C. Homogenous
+D. Settlement
+Answer: Settlement
+358. waves in which the ratio of water depth to the wave length is equal to or less than 0.40. -
+waves which occur in water having a depth less than one half of the wave length and the influence
+of the bottom changes the form or orbital motion from circular to elliptical or near- elliptical.
+A. Shallow water waves
+B. Crossing conflicts
+C. Pore water pressure
+D. Releiving platform
+Answer: Shallow water waves
+359. these are intended primarily as a safety feature. They provide for accommodation of stopped
+vehicles, emergency use, and lateral support of the pavement
+A. Resonance
+B. Faulting
+C. Shoulders
+D. Flow Line
+Answer: Shoulders
+360. describes the effectiveness of a pavement to prevent or reduce skid related crashes
+A. Post tensioning
+B. Compound curve
+C. Skid resistance
+D. Perception time
+Answer: Skid resistance
+361. A hypothetical wave having a wave height and period equal respectively to average values of
+the wave height and period of the largest 1/3 of all waves in the train as counted in the order of
+greater wave height.
+A. Deep water waves
+B. Significant wave
+C. Speed Progression
+D. Traverse cracking
+Answer: Significant wave
+362. a type of rigid pavement having dowels for the transfer of traffic load across joints with these
+joints spaced at larger distance than with plain pavements ranging from 10 m to 30 m. Temperature
+steel is used throughout the slab
+A. Single and double pillar
+B. Simply reinforced concrete pavement
+C. b. Mean Low Water (MWL)
+D. Geoemtric cross section
+Answer: Simply reinforced concrete pavement
+363. A type of mooring bollard which is suitable for warping ships along berths a single pillar type
+is used with lines from one ship only. General mooring application where rope angle is not steep. It
+has a normal max. working capacity of 200 tons. Significant wave height -the arithmetical mean
+value of the highest one-third of the waves for a stated interval
+A. Single and double pillar
+B. Immediate water waves
+C. Superelevation transition
+D. Plain concrete pavement
+Answer: Single and double pillar
+364. A type of mooring bollard where all general mooring applications including steep rope angles
+and lines from two ships may be attached without interference. It has normal max. capacity of 200
+tons.
+A. Roundabouts
+B. Traffic cone
+C. Slobing robe
+D. Rail Anchors
+Answer: Slobing robe
+365. waves that have propagated beyond the initial winds that generated them
+A. Wakes
+B. Orifice
+C. Swell
+D. Weaving
+Answer: Swell
+366. generated by storms, which occur outside area of observation
+A. Swells Waves
+B. Object Height
+C. Overhead sign
+D. Windward side
+Answer: Swells Waves
+367. the distance between the front of a vehicle and the front of the following vehicle
+A. Space headway
+B. Catch Points
+C. Painted Median
+D. Traffic volume
+Answer: Space headway
+368. the arithmetic mean of speed of vehicles occupying a relatively long section of street or
+highway at given instant
+A. Vehicle dynamic
+B. Over consolidated
+C. Policy Headways
+D. Space mean speed
+Answer: Space mean speed
+369. rate of change of distance with respect to time and is usually measured in either miles per
+hour or feet per second depending on the application
+A. Speed
+B. Profile
+C. Period
+D. Gates
+Answer: Speed
+370. the instantaneous speed of a vehicle at a specified section or location
+A. Roundabouts
+B. Macroscopic
+C. Microscopic
+D. Spot speed
+Answer: Spot speed
+371. the highest tide which occurs at intervals of half a lunar month when the sun , moon and earth
+fall in line
+A. Wind Seiching
+B. Wave length
+C. Spring tides
+D. Geotextiles
+Answer: Spring tides
+372. the ratio of the wave height to its wave length is called
+A. Resonance
+B. Steepness
+C. Sub grade
+D. Concrete
+Answer: Steepness
+373. an abnormal rise of the sea level that occurs when a typhoon passes by. This rise above
+normal level on this open coast is due to atmospheric pressure reduction as well as due to wind
+stress.
+A. Settlement
+B. Storm Surge
+C. Orthotropic
+D. Wind waves
+Answer: Storm Surge
+374. determined based on the traffic loads, soils support, and other design factors
+A. Queue Discipline
+B. Structural number
+C. Absolute Pressure
+D. Practical capacity
+Answer: Structural number
+375. the part of the road structure which is immediately above the subgrade and composed of
+stone boulders or superior soil
+A. Time Gaps
+B. Drainage
+C. Sub base
+D. Batching
+Answer: Sub base
+376. the layer of natural soil over which the pavement road is laid
+A. Capacity
+B. Sub grade
+C. Expressway
+D. Tack coat
+Answer: Sub grade
+377. this applies to cuved facilities, such as highways or railways, only. It consists of a graph with
+roadway or railway cross slope versus horizontal distance
+A. Reciprocal of stiffness
+B. Superelevation diagram
+C. Actual displacement
+D. Space-time diagram
+Answer: Superelevation diagram
+378. the length of super elevation development from zero cross slope to full design super elevation
+in a circular curve alignment
+A. Super elevation run off
+B. Double alternate system
+C. b. Transverse Lines
+D. Archimedes Principle
+Answer: Super elevation run off
+379. Wind generated waves which are created in the deep ocean at some distance from the port
+site and the wind that created them may be too distant to be felt in the port or may have stopped
+blowing or changed, its direction by the time the wave reach the port.
+A. Focal depth
+B. Band Width
+C. Swell waves
+D. Obstructions
+Answer: Swell waves
+380. the purpose of this is to counteract the centripetal acceleration produced as a vehicle round a
+curve
+A. elsewhere on two and three
+B. Passive earth pressure coefficient
+C. Superelevation or banking of curves
+D. Transitional water wave
+Answer: Superelevation or banking of curves
+381. this involve modification of the roadway cross section from normal crown to full
+superelevation, at which point the entire roadway width has a cross slope of e Surface attrition or
+surface abrasion - abnormal surface wear, usually resulting from poor quality surface mortar or
+coarse aggregate
+A. Triple alternate system
+B. Superelevation transition
+C. Flexible Post or Bollard
+D. Immediate water waves
+Answer: Superelevation transition
+382. loss pf the original surface texture due to traffic action
+A. Hydraulic Jump
+B. Bitumen carpet
+C. Surface polish
+D. Continuity Line
+Answer: Surface polish
+383. an application of hot bitumen material given to the old surface to provide adhesion to the old
+and new road surface
+A. Duration
+B. Wind rose
+C. Tack coat
+D. Expressway
+Answer: Tack coat
+384. the length of super elevation development from the normal cross slope to the zero cross
+slope point on the tangent
+A. Wearing coarse
+B. Tangent run out
+C. Chevron Markings
+D. Traffic capacity
+Answer: Tangent run out
+385. A type of mooring bollard where all general mooring applications including steep rope angles.
+Any one bollard should preferably be allocated to lines from one ship only. It has a normal
+maximum working capacity of 150 tons.
+A. Plan View
+B. Tee head
+C. Bulkhead
+D. Tack coat
+Answer: Tee head
+386. high crester waves caused by the rush of flood tide up river or by meeting of tides
+A. Delineator
+B. Tidal bores
+C. Spot speed
+D. Rail Anchors
+Answer: Tidal bores
+387. waves formed by gravitational attraction of the moon and sun
+A. Tide
+B. Headway
+C. Sea
+D. Density
+Answer: Tide
+388. the time interval between the passage of successive vehicle is moving in the same lane and
+measured from head to head as they pass a point on the road
+A. Rail Anchors
+B. Time headway
+C. Warning Signs
+D. Running speed
+Answer: Time headway
+389. the arithmetic mean of the speeds of vehicles passing a point on a highway during an interval
+of time
+A. Major head loss
+B. Braking distance
+C. Time mean speed
+D. Painted Median
+Answer: Time mean speed
+390. these traffic solution involve assignment of the right of way to particular movements for
+particular time
+A. Give Way Line
+B. Warning Signs
+C. Time sharing
+D. Average speed
+Answer: Time sharing
+391. a type of wave where depth is less than ½ of wave length but greater than 1/25 of the wave
+length
+A. Offset of the Cycle
+B. Passing Sight Distance
+C. Transitional water wave
+D. Embedment depth (D)
+Answer: Transitional water wave
+392. the ability of a roadway to accommodate traffic volume. t is expressed as the maximum
+number of vehicles in a lane or a road that can pass a given point in unit time, usually an hour, that
+is vehicle per hour per lane or roadway
+A. Traffic capacity
+B. Time mean speed
+C. Geometric Design
+D. Kinetic Friction
+Answer: Traffic capacity
+393. devices which may be conical in shape or tubular shaped capable of performing
+channelization o traffic which may be set on the surface if the roadway or rigidly attached for
+continued use
+A. Reaction time
+B. Traffic cone
+C. Leeward side
+D. Diffraction
+Answer: Traffic cone
+394. a major challenge for the transportation system and the transportation engineering profession
+because it undermines the effectiveness and efficiency of the system - demand exceeds the
+capacity of the transportation system
+A. Water bound macadam
+B. Pore water pressure
+C. Signal Coordination
+D. Traffic congestion
+Answer: Traffic congestion
+395. continuing challenge for the transportation engineering profession because of public
+expectations that safety will continue to improve.
+A. No Passing Zone
+B. Bitumen carpet
+C. Breaking waves
+D. Traffic safety
+Answer: Traffic safety
+396. the number of vehicles moving in a specified direction on a given lane or roadway that pass a
+given point during specified unit time and is usually expressed as vehicles per hour or vehicle per
+day
+A. Give Way Line
+B. Block cracking
+C. Overhead sign
+D. Traffic volume
+Answer: Traffic volume
+397. these are used to connect tangents to circular curves
+A. Traverse cracking
+B. Broken back curve
+C. Asphatic Concrete
+D. Transition curves
+Answer: Transition curves
+398. cracks approximately at right angles to the pavement center-line. These may be caused by
+shrinkage or differential thermal stress of the asphalt concrete, or may be reflective crack
+A. Relative Pressure
+B. Transition Lines
+C. Traverse cracking
+D. Continuity Line
+Answer: Traverse cracking
+399. joints provided in concrete cement pavements at right angles to the centre line of the
+pavement
+A. Circular curves
+B. Road capacity
+C. Traverse joint
+D. Surface polish
+Answer: Traverse joint
+400. waves created by large, sudden impacts, such as earthquakes, volcanoes or landslides that
+ends up in ocean.
+A. Shoulders
+B. Stop Line
+C. Wind rose
+D. Tsunamis
+Answer: Tsunamis
+401. this determines the length of the superelevation run off of transitional curves
+A. Mastic asphalt
+B. Minor head loss
+C. Braking distance
+D. Vehicle dynamic
+Answer: Vehicle dynamic
+402. the speed pf the wave form which travels over the water surface for a certain wave
+A. Factor of safety or safety factor
+B. a. Longitudinal Lines
+C. Velocity of wave propagation
+D. Joint or crack spailling
+Answer: Velocity of wave propagation
+403. the longitudinal profile along the centerline of the road. It is made up of a series of grades and
+vertical curves
+A. Broken back curve
+B. Diverging conflicts
+C. Vertical alignment
+D. Merging conflicts
+Answer: Vertical alignment
+404. these are normally parabolas centered about the point of intersection of the vertical tangents
+they join
+A. Traffic safety
+B. Wearing coarse
+C. Vertical curve
+D. Specifications
+Answer: Vertical curve
+405. the time taking a decision to produce action to a particular traffic situation
+A. Venturi Meter
+B. Surface polish
+C. Volition time
+D. Overhead Signs
+Answer: Volition time
+406. waves formed by moving ship or boats - waves formed by moving ship or boats
+A. Port
+B. Wakes
+C. Column
+D. Line
+Answer: Wakes
+407. a road made of coarse aggregate mechanically interlocked by rolling and bonded together
+with screening dust
+A. Crossing conflicts
+B. Asphatic Concrete
+C. Water bound macadam
+D. Horizontal tangents
+Answer: Water bound macadam
+408. the highest point of the wave
+A. Wave Crest
+B. Estimates
+C. Sub grade
+D. Shoulders
+Answer: Wave Crest
+409. the elevation of the crest above the through of the wave
+A. Design Speed
+B. Wave height
+C. Time headway
+D. Highest wave
+Answer: Wave height
+410. the length between two consecutive crests
+A. Cross slope
+B. Wave length
+C. Spot speed
+D. Prime coat
+Answer: Wave length
+411. the wave form travels over thee water surface and the time for two consecutive crests to pass
+a point
+A. Wave height
+B. Tidal bores
+C. Wave period
+D. Spring tides
+Answer: Wave period
+412. A change in the dissection of travel of the wave with change in depth of water which
+distributes wave along energy the seashore unevenly
+A. Traverse joint
+B. Breaking waves
+C. Policy Headways
+D. Wave refraction
+Answer: Wave refraction
+413. the lowest point of the wave
+A. Settlement
+B. Wave trough
+C. Delineator
+D. Turn Lines
+Answer: Wave trough
+414. the layer in a road pavement which provides resistance to wear and tear due to traffic
+A. Overhead Signs
+B. Traffic volume
+C. Wearing coarse
+D. Traverse joint
+Answer: Wearing coarse
+415. soil stabilized roads with cement/lime cannot be used
+A. Relative Speed
+B. Wearing Surface
+C. Turbulent Flow
+D. Vertical curve
+Answer: Wearing Surface
+416. the process by which a vehicle first merges into a stream of traffic obliquely crosses that
+stream, then merges in to a second stream moving in the same direction
+A. Pascal
+B. Corbel
+C. Weaving
+D. Capacity
+Answer: Weaving
+417. this traffic conflict occurs when vehicles cross paths by first merging and the diverging
+A. Weaving conflicts
+B. Free haul distance
+C. b. Transverse Lines
+D. Absolute Pressure
+Answer: Weaving conflicts
+418. a platform built parallel to the shore or breakwater within the harbor to berth vessel
+A. Pier
+B. Wharf
+C. Blowups
+D. Trip
+Answer: Wharf
+419. the circulation of masses of air more or less parallel to the earth`s surface
+A. Port
+B. Gap
+C. Wind
+D. Phase
+Answer: Wind
+420. the graphical representation of the direction, frequency and intensity of winds at a particular
+location over period of time
+A. Wind rose
+B. Resultant
+C. Elevation
+D. Delineator
+Answer: Wind rose
+421. when local winds blow over the surface of the water, near the shores will create
+A. Wind Seiching
+B. Design Speed
+C. Surface polish
+D. Road geometry
+Answer: Wind Seiching
+422. the side of a structure facing the direction from which the wind
+A. Swells Waves
+B. Windward side
+C. Venturi Meter
+D. Block cracking
+Answer: Windward side
+423. waves generated by wind that are acting on the sea surface bordering on the port site.
+Definition of Terms Fluid Mechanics & Hydraulics
+A. Homogenous
+B. Wind waves
+C. Shoulders
+D. Turn Lines
+Answer: Wind waves
+424. pressure above absolute zero
+A. Capacity Headways
+B. Queue Discipline
+C. Maximum free speed
+D. Absolute Pressure
+Answer: Absolute Pressure
+425. Anybody immersed in a fluid is subjected to an upward force called buoyant force equal to the
+weight of the displaced fluid.
+A. Space-time diagram
+B. Archimedes Principle
+C. Alligator cracking
+D. Horizontal tangents
+Answer: Archimedes Principle
+426. pressure at any one point on the earth surface from the weight of the air above it.
+A. Breasting dolphins
+B. Free haul distance
+C. Atmospheric pressure
+D. Mixed diurnal tides
+Answer: Atmospheric pressure
+427. in any stream flowing steadily without friction the total energy contained is the same at every
+point in its path of flow
+A. Guide sign
+B. Earthwork
+C. Bernoulli
+D. Time Gaps
+Answer: Bernoulli
+428. consist of wall, or face, supported by several buttresses on the downstream side
+A. Leeward side
+B. Wave height
+C. Base courses
+D. Buttress Dam
+Answer: Buttress Dam
+429. structures that block the flow of a river, stream, or other waterway
+A. Trip
+B. Dam
+C. Fetch
+D. Volume
+Answer: Dam
+430. It acts opposite to the direction of the oncoming flow velocity
+A. Expressway
+B. Macroscopic
+C. Drag Force
+D. Hookes Law
+Answer: Drag Force
+431. the volume of liquid passing a cross section of a stream
+A. Estimates
+B. Drainage
+C. Screeding
+D. Discharge
+Answer: Discharge
+432. gravity dam formed out of loose rock, earth, or a combination of these materials
+A. Embankment Dam
+B. Basic capacity
+C. Specifications
+D. Derived Utility
+Answer: Embankment Dam
+433. It is a dimensionless value that describes different flow regimes of open channel flow
+A. Froude Number
+B. Road surface
+C. Painted Median
+D. Intellection
+Answer: Froude Number
+434. an opening in a dam or other hydraulic structure to control the passage of water
+A. Delay
+B. Gates
+C. Plans
+D. Groin
+Answer: Gates
+435. used only the force of gravity to resist water pressure
+A. Slobing robe
+B. Spot speed
+C. Gravity Dam
+D. Base courses
+Answer: Gravity Dam
+436. graphical presentation pf the total energy of flow
+A. Hydraulic grade line
+B. Construction joint
+C. Temporary Curbing
+D. Fill or Embankment
+Answer: Hydraulic grade line
+437. a line joining the points of highest elevation of water of a series of vertical open pipes rising
+from a pipeline in which water flows under pressure
+A. Structural number
+B. Hydraulic Gradient
+C. Breasting dolphins
+D. Metacentric height
+Answer: Hydraulic Gradient
+438. abrupt increase in depth of rapidly flowing water
+A. Berth structure
+B. Relative Speed
+C. Traverse joint
+D. Hydraulic Jump
+Answer: Hydraulic Jump
+439. deals with the study pf the motion of liquid and of the interactions of the fluid with its
+boundaries
+A. Give Way Line
+B. Catch Points
+C. Roadwork Signs
+D. Hydrodynamics
+Answer: Hydrodynamics
+440. when the path of individual fluid particles do not cross or intersect
+A. Wave length
+B. Windward side
+C. Roundabouts
+D. Laminar Flow
+Answer: Laminar Flow
+441. caused by pipe friction along straight sections of pipe of uniform diameter and uniform
+roughness
+A. Clearance Time
+B. Traffic capacity
+C. Block cracking
+D. Major head loss
+Answer: Major head loss
+442. the point of intersection between the axis of the body and the line of action of the buoyant
+force
+A. Metacenter
+B. Turn Lines
+C. Screeding
+D. Bathymetry
+Answer: Metacenter
+443. the distance from the metacenter to the center gravity of the body
+A. Construction joint
+B. Speed Progression
+C. Fixed-time Systems
+D. Metacentric height
+Answer: Metacentric height
+444. caused by changes in velocity or directions of flow an are commonly express in terms of
+kinetic energy
+A. Minor head loss
+B. Traffic volume
+C. Surface polish
+D. Wearing coarse
+Answer: Minor head loss
+445. a converging tube installed at the end of a pipe or hose for the purpose of increasing the
+velocity of the issuing jet
+A. Nozzle
+B. Headway
+C. Speed
+D. Line
+Answer: Nozzle
+446. an opening with a closed perimeter through which fluid flows
+A. Orifice
+B. Barriers
+C. Plans
+D. Headway
+Answer: Orifice
+447. the pressure exerted onto a liquid a transmitted undiminished to all portions of the liquid
+A. Corbel
+B. Line
+C. Period
+D. Pascal
+Answer: Pascal
+448. used to measure the velocity of fluid flow or velocity of air flow as used in airplane
+speedometer
+A. Clear Zone
+B. Tidal bores
+C. Pitot Tube
+D. Plasticity
+Answer: Pitot Tube
+449. rate of work done per unit of time
+A. Merging
+B. Seiche
+C. Power
+D. Bitt
+Answer: Power
+450. pressure above or below the atmosphere and can be measure by pressure gauges or
+manometers
+A. Shallow foundation
+B. Relative Pressure
+C. b. Transverse Lines
+D. Releiving platform
+Answer: Relative Pressure
+451. defines as the ration of inertia force to viscous force and interpreted as the ratio dynamic
+pressure to shearing stress
+A. Beuforts Scale
+B. Reynolds Number
+C. Painted Median
+D. Mean free speed
+Answer: Reynolds Number
+452. extract flow energy to do mechanical work which in turn converted into electrical energy for
+turbines
+A. Turbine
+B. Corbel
+C. Headways
+D. Period
+Answer: Turbine
+453. when the path of individual particles are irregular and continuously cross each other
+A. Embankment Dam
+B. Turbulent Flow
+C. Flashing Lamps
+D. Continuity Line
+Answer: Turbulent Flow
+454. resisting property of a liquid to shearing force
+A. Raveling
+B. Steepness
+C. Viscosity
+D. Refraction
+Answer: Viscosity
+455. a pressure surge or wave caused when a fluid in motion is forced to stop or change direction
+suddenly
+A. Center Line
+B. Diurnal tides
+C. Buttress Dam
+D. Water hammer
+Answer: Water hammer
+456. overflow structures which are built across are open channel for the purpose of measuring or
+controlling the flow of liquids
+A. Weir
+B. Fetch
+C. Numerals
+D. Tide
+Answer: Weir
+457. an instrument used in measuring the discharge through pipes Definition of Terms
+Geotechnical Engineering
+A. Windward side
+B. Venturi Meter
+C. Flashing Lamps
+D. Clearance Time
+Answer: Venturi Meter
+458. ratio between lateral and vertical principal effective stresses when an earth retaining structure
+moves away from a retained soil Allowable bearing capacity or safe bearing capacity -the working
+pressure that would ensure a margin of safety against collapse of the re from shear failure.
+A. b. Mean Low Water (MWL)
+B. Passive earth pressure coefficient
+C. Ultimate bearing capacity
+D. Active earth pressure coefficient
+Answer: Active earth pressure coefficient
+459. the component of shear strength of a rock or soil that interparticle friction
+A. Cohesion
+B. Capacity
+C. Duration
+D. Flexible
+Answer: Cohesion
+460. used to describe the degree of firmness of soil
+A. Center Line
+B. Sea island
+C. Cross slope
+D. Consistency
+Answer: Consistency
+461. the depth below the ground surface where the base of the foundation rests
+A. Diverging conflicts
+B. Embedment depth (D)
+C. Mixed diurnal tides
+D. Bus and PUJ Lane line
+Answer: Embedment depth (D)
+462. a line along which the potential head at all points is equal
+A. Absolute Pressure
+B. Weaving conflicts
+C. Signal Coordination
+D. Equipotential line
+Answer: Equipotential line
+463. the ratio of the ultimate net bearing to the allowable bearing cap ng capacity or to the applied
+maximum vertical stress
+A. Signal Coordination
+B. Factor of safety or safety factor
+C. Right Turn Slip Lanes
+D. Limit of Economic Haul
+Answer: Factor of safety or safety factor
+464. a line along which a water particle will travel from upstream to the down stream side in the
+permeable soil medium
+A. Screeding
+B. Flow Line
+C. Expressway
+D. Drainage
+Answer: Flow Line
+465. a combination of a number of flow line and equipotential line
+A. Amplitude
+B. Headways
+C. Plan View
+D. Flow Net
+Answer: Flow Net
+466. consisting of a small slab for transmitting the re load to the underlying soil.
+A. Footings
+B. Turbine
+C. Duration
+D. Bollard
+Answer: Footings
+467. structure load to is that part of a structure which transmits the building, load nto the
+underlying soil
+A. Time Points
+B. Foundation
+C. Hookes Law
+D. Earthwork
+Answer: Foundation
+468. stress resulting from particle to particle contact of soil
+A. Intergranular Stress
+B. Horizontal Control
+C. Maximum free speed
+D. Signal Coordination
+Answer: Intergranular Stress
+469. a process by which water saturated soil sediment temporarily loss strength and acts as a fluid
+A. Macroscopic
+B. Hinge Points
+C. Liquefaction
+D. Swells Waves
+Answer: Liquefaction
+470. the pressure (effective stress) of the soil removed fraction of the to place the footing
+A. Free haul distance
+B. Right Turn Slip Lanes
+C. Overburden pressure
+D. Releiving platform
+Answer: Overburden pressure
+471. it is a soil whose present effective over burn pressure is less than that which the soil
+experienced in the past
+A. Shallow foundation
+B. Equipotential line
+C. Over consolidated
+D. Reaction distance
+Answer: Over consolidated
+472. ratio between lateral and vertical principal effective stresses when an earth retaining structure
+is forced against a soil mass
+A. Superelevation diagram
+B. Passive earth pressure coefficient
+C. Geoemtric cross section
+D. Actions available to the driver
+Answer: Passive earth pressure coefficient
+473. stress induced by water pressures
+A. Water bound macadam
+B. Pore water pressure
+C. Atmospheric pressure
+D. Broken back curve
+Answer: Pore water pressure
+474. structure whose primary purpose is to prevent lateral movement of earth or some material
+A. Average speed
+B. Turbulent Flow
+C. Retaining wall
+D. Roadwork Signs
+Answer: Retaining wall
+475. soil derives its strength from its capacity to resist
+A. Wakes
+B. Mole
+C. Cycle
+D. Shear
+Answer: Shear
+476. sum of effective and neutral stresses
+A. Laminar Flow
+B. Highest wave
+C. Total Stress
+D. Center Line
+Answer: Total Stress
+477. one in which the ratio of the embedment depth to the minimum plan dimension, which is
+usually the width, is Di/ B 52.5.
+A. Relative Pressure
+B. Braking distance
+C. Signal Coordination
+D. Shallow foundation
+Answer: Shallow foundation
+478. the maximum pressure that the soil can support
+A. Plain concrete pavement
+B. Bus and PUJ Lane line
+C. Loading/Unloading Restrictions
+D. Ultimate bearing capacity
+Answer: Ultimate bearing capacity
+479. the maximum pressure that the soil can support above its current Definition of Terms
+Structural Engineering Construction
+A. Active earth pressure coefficient
+B. Special Instruction Signs
+C. Ultimate net bearing capacity
+D. Single and double pillar
+Answer: Ultimate net bearing capacity
+480. it is measured by seismometer
+A. Bus and PUJ Lane line
+B. Asphatic Concrete
+C. Fixed mooring berth
+D. Actual displacement
+Answer: Actual displacement
+481. it is the point through which the resultant of the resistance to the applied lateral force acts
+A. Horizontal tangents
+B. Center of rigidity
+C. Embedment depth (D)
+D. Diverging conflicts
+Answer: Center of rigidity
+482. it is the point through which the applied seismic force acts
+A. Skid resistance
+B. Turbulent Flow
+C. Surface polish
+D. Center of mass
+Answer: Center of mass
+483. structural member ha the ratio of its unsupported height to its least lateral dimension of not
+less than 3 and is used primarily support axial load
+A. Orifice
+B. Plans
+C. Column
+D. Dry Dock
+Answer: Column
+484. a short edge beam projecting from a column to support a weight
+A. Port
+B. Power
+C. Corbel
+D. Emotion
+Answer: Corbel
+485. the structure is subjected to a load for a long period of time, it will continue to deform until a
+sudden fracture occurs
+A. Creep
+B. Quay
+C. Weaving
+D. Trip
+Answer: Creep
+486. it refers to the ability of a material to deform in the plastic range without braking
+A. Ductility
+B. Delineator
+C. Estimates
+D. Numerals
+Answer: Ductility
+487. it refers to the property of a material which makes it return to its original dimension when the
+load is removed
+A. Wind waves
+B. Elasticity
+C. Delineator
+D. Wave Crest
+Answer: Elasticity
+488. it is the distance between the center of rigidity and center of mass
+A. Wave trough
+B. Eccentricity
+C. Object Height
+D. Gravity waves
+Answer: Eccentricity
+489. the structure is subjected to a cycle of stresses and ______, it causes the beam to have
+sudden ultimate structure
+A. Faulting
+B. Fatigue
+C. Raveling
+D. Curing
+Answer: Fatigue
+490. besides the epicenter, it describes the location of the earthquake
+A. Focal depth
+B. Wave height
+C. Breakwater
+D. Time Points
+Answer: Focal depth
+491. the material has the same composition at every point but the elastic may not be the same in
+all direction
+A. Clear Zone
+B. Microscopic
+C. Homogenous
+D. Edge Line
+Answer: Homogenous
+492. stress is proportional to the strain within the elastic region
+A. Geotextiles
+B. Dwell Time
+C. Hookes Law
+D. Swell waves
+Answer: Hookes Law
+493. The material has the same elastic properties in all direction
+A. Resonance
+B. Joint Bars
+C. Dry Dock
+D. Isotropic
+Answer: Isotropic
+494. retarding force acting opposite in motion
+A. Kinetic Friction
+B. Derived Utility
+C. Time mean speed
+D. Transition curves
+Answer: Kinetic Friction
+495. it is measured by the Ritcher scale
+A. Overburden pressure
+B. Superelevation transition
+C. Magnitude of earthquake
+D. Right Turn Slip Lanes
+Answer: Magnitude of earthquake
+496. The composite material exhibits elastic properties in one direction different from that in the
+perpendicular direction
+A. Orthotropic
+B. Band Width
+C. Time headway
+D. Roundabouts
+Answer: Orthotropic
+497. the deformation of axially loaded members, the ratio of the lateral to the longitudinal strain is
+constant
+A. Reynolds Number
+B. Compound curve
+C. Poisson's Ratio
+D. Transition Lines
+Answer: Poisson's Ratio
+498. stressing high strength steel after the concrete has been cast and has attained sufficient
+strength
+A. Cost of borrow
+B. Hydraulic Jump
+C. Post tensioning
+D. Chevron Markings
+Answer: Post tensioning
+499. stressing high strength steel wires before concrete hardens
+A. Average speed
+B. Pre tensioning
+C. Policy Headways
+D. Traffic volume
+Answer: Pre tensioning
+500. A condition that when there is already a permanent deformation, it continues to deform when
+a minimal load is applied beyond the elastic
+A. Geotextiles
+B. Delineator
+C. Prime coat
+D. Plasticity
+Answer: Plasticity
+501. it refers to the rigidity of a structure
+A. Right Turn Slip Lanes
+B. Ultimate net bearing capacity
+C. Super elevation run off
+D. Reciprocal of deflection
+Answer: Reciprocal of deflection
+502. it refers to flexibility of a structure Relaxation -Loss of stress that takes place with the
+passage of time as concrete is held at a constant strain
+A. Entrance Ramp Marking
+B. Raised Pavement Markers
+C. Ultimate bearing capacity
+D. Reciprocal of stiffness
+Answer: Reciprocal of stiffness
+503. it refers to the ability of a material to absorb energy in the elatsic range
+A. Resilience
+B. Turn Lines
+C. Settlement
+D. Delineator
+Answer: Resilience
+504. Refers to the large amplitude vibration of an object or system when given impulses at its
+natural frequency
+A. Guide sign
+B. Resonance
+C. Screeding
+D. Tack coat
+Answer: Resonance
+505. ne in which the lateral stiffness is less than 70 percent of the stiffness of the story above
+A. Gage Bars
+B. Time Points
+C. Amplitude
+D. Soft Story
+Answer: Soft Story
+506. determines whether the body will be in equilibrium or will have a varying state of motion Static
+it refers to the force generated by a body at rest
+A. Resultant
+B. Earthwork
+C. Time Gaps
+D. Bulkhead
+Answer: Resultant
+507. it is the displacement of one level relative to the level above or below
+A. Story Drift
+B. Sea island
+C. Settlement
+D. Guide sign
+Answer: Story Drift
+508. occurs when the center of mass and rigidity do not coincide
+A. Superelevation transition
+B. Super elevation run off
+C. Atmospheric pressure
+D. Torsional Shear Stress
+Answer: Torsional Shear Stress
+509. the material deforms considerably even with a slight increase in stress
+A. Pavement
+B. Dry Dock
+C. Duration
+D. Yielding
+Answer: Yielding
+510. it refers to the ability of a material to absorb energy in the plastic range
+A. Bathymetry
+B. Bernoulli
+C. a. Wharf
+D. Toughness
+Answer: Toughness
+511. it is the constant of proportionality that defines the linear relationship between stress and
+strain
+A. Cost of borrow
+B. Painted Median
+C. Young's Modulus
+D. Transition Lines
+Answer: Young's Modulus
+

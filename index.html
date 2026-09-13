@@ -1,0 +1,121 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#151514">
+  <meta name="description" content="Your next level starts here. A UST Engineering-inspired reviewer experience.">
+  <title>UST Engineering &middot; Reviewer</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='10' fill='%23f3c43e'/%3E%3Cpath d='M15 10 30 20 15 30Z'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><clipPath id="front-pose" clipPathUnits="objectBoundingBox"><path transform="scale(.005263157895 .002288329519)" clip-rule="evenodd" d="M43 101 39 94 41 89 36 86 39 80 31 77 35 72 34 65 40 60 34 56 41 53 44 47 41 46 50 39 48 34 59 35 64 27 66 21 68 26 77 19 84 19 94 14 102 16 114 11 118 14 128 12 142 18 147 15 152 26 165 28 163 33 172 40 176 50 181 56 179 62 183 69 179 74 181 82 176 88 175 98 166 111Q169 125 158 134L149 136Q144 147 136 153L143 158Q149 164 149 173L148 177Q159 182 164 197L176 222Q181 228 184 237Q189 247 179 264L165 282 151 296 150 312 156 331 156 347 153 355 157 375 154 389 163 405Q176 411 177 423L178 431Q157 435 143 432L119 429 118 420 121 410 117 398 113 382 110 366 107 351 102 336 97 336 92 354 89 376 83 394 79 407 84 419 83 429Q59 435 29 431L29 421 34 412 40 402 43 390 44 378 43 365 43 348 47 334 48 316 51 298Q35 291 25 275L19 260Q13 244 17 231L27 204 37 181Q43 166 54 162L64 156 65 150Q50 145 44 134L39 124Q35 119 37 109L38 102Z"/></clipPath></defs></svg>
+  <main class="game" id="game">
+    <section class="landing screen" id="landing" aria-label="UST Engineering reviewer home">
+      <div class="environment" aria-hidden="true">
+        <div class="lane lane-dark">
+          <svg class="tiger-stripes" viewBox="0 0 220 500" fill="none">
+            <path d="M-30 80Q50 60 128 14L149 83 207 148 153 142 185 216 133 190 153 284 113 254 95 355 66 315 10 416M-30 87Q59 85 118 40L124 95 164 131 115 122 149 181 96 162 113 226 76 201 75 293 40 274-5 353" stroke="currentColor" stroke-width="8"/>
+            <path d="M-12 115 71 131 35 148 73 170 19 169 36 193-8 213M1 226Q30 203 58 221 51 259 14 269M18 232 36 233 27 249M-10 296 32 286 8 318M88 73 80 108 104 101M54 92 46 116 68 112" stroke="currentColor" stroke-width="10"/>
+          </svg>
+          <div class="subjects"><span>CALCULUS</span><span>PHYSICS</span><span>PROGRAMMING</span><span>ENGINEERING</span></div>
+        </div>
+        <div class="lane lane-gold"><span class="ust">UST</span></div>
+        <div class="lane lane-light">
+          <div class="pixels pixels-top"><i></i><i></i><i></i><i></i><i></i></div>
+          <p class="motto">GOOD<br>STUDENTS<br>BETTER<br>ENGINEERS</p>
+          <div class="pixels pixels-bottom"><i></i><i></i><i></i></div>
+        </div>
+        <div class="floor"></div>
+        <div class="character-shadow"></div>
+      </div>
+
+      <header class="game-header">
+        <button class="icon-button settings-button" id="settings-button" aria-label="Settings" aria-haspopup="dialog">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="m10 1-.6 3-2 .8L4.8 3 2 5.8l1.8 2.6-.8 2L0 11v4l3 .6.8 2L2 20.2 4.8 23l2.6-1.8 2 .8.6 3h4l.6-3 2-.8 2.6 1.8 2.8-2.8-1.8-2.6.8-2 3-.6v-4l-3-.6-.8-2L22 5.8 19.2 3l-2.6 1.8-2-.8-.6-3ZM12 8a5 5 0 1 1 0 10 5 5 0 0 1 0-10" transform="translate(1 -1) scale(.92)"/></svg>
+        </button>
+        <div class="brand">
+          <svg class="university" viewBox="0 0 150 110" aria-hidden="true">
+            <g fill="currentColor"><path d="M3 68h43v39H3zm101 0h43v39h-43zM48 39h54v68H48zM61 22h28v17H61zM67 13h16v9H67zM72 3h6v10h-6z"/><path d="M74 0h2v17h-2zM69 5h12v2H69zM1 64h47v4H1zm101 0h47v4h-47zM45 35h60v4H45zM57 20h36v3H57zM7 56h3v8H7zm-3 4h9v2H4zm136-4h3v8h-3zm-3 4h9v2h-9z"/></g>
+            <g fill="#f4c642"><path d="M68 107V85q7-16 14 0v22zM55 47h5v13h-5zm17-17h6v8h-6zm17 17h5v13h-5zM70 47h10v23H70zM55 67h5v15h-5zm34 0h5v15h-5z"/><path id="windows" d="M9 74h5v10H9zm12 0h5v10h-5zm12 0h5v10h-5zM9 91h5v10H9zm12 0h5v10h-5zm12 0h5v10h-5z"/><use href="#windows" x="102"/></g>
+          </svg>
+          <h1>ENGINEERING</h1>
+        </div>
+        <div class="signal" aria-label="Ready to play" role="img"><i></i><i></i><i></i></div>
+      </header>
+
+      <div class="character-anchor" id="character-anchor">
+        <div class="character" id="character" title="Drag me — I'll find my way back">
+          <div class="character-crop">
+            <img src="photos/character.png" alt="3D UST Engineering student wearing glasses, a cream hoodie, and black cargo pants" draggable="false" fetchpriority="high" width="1222" height="1287">
+          </div>
+        </div>
+      </div>
+
+      <div class="launch-zone">
+        <button class="start-button" id="start-button" aria-label="Start reviewer">
+          <span class="start-disc"><svg viewBox="0 0 40 48" aria-hidden="true"><path d="M4 0h8v4h6v5h6v5h6v5h6v10h-6v5h-6v5h-6v5h-6v4H4z" fill="currentColor"/></svg></span>
+          <span class="start-label" aria-hidden="true" id="start-label">START</span>
+        </button>
+      </div>
+    </section>
+
+    <section class="mste screen" id="mste" aria-label="MSTE" hidden>
+      <div class="mste-artwork">
+        <img src="photos/MSTE.png" alt="MSTE engineering scene with a student reaching toward the yellow MSTE button" width="941" height="1672" draggable="false">
+        <button class="mste-hit-area" id="mste-button" aria-label="Open MSTE reviewer"></button>
+      </div>
+      <button class="mste-home" id="mste-home" aria-label="Return to home page">
+        <svg viewBox="44 36 72 67" aria-hidden="true"><image href="photos/MSTE.png" width="941" height="1672"/></svg>
+      </button>
+    </section>
+
+    <section class="question-selection screen" id="qs" aria-label="Choose number of questions" hidden>
+      <div class="qs-artwork">
+        <img src="photos/QS.png" alt="MSTE question-count selection scene" width="941" height="1672" draggable="false">
+        <button class="qs-choice" data-count="10" aria-label="10 questions" style="top:21.17%"></button>
+        <button class="qs-choice" data-count="25" aria-label="25 questions" style="top:33.97%"></button>
+        <button class="qs-choice" data-count="50" aria-label="50 questions" style="top:47.01%"></button>
+        <button class="qs-choice" data-count="100" aria-label="100 questions" style="top:60.05%"></button>
+      </div>
+      <button class="qs-back" id="qs-back" aria-label="Back to MSTE">&larr;</button>
+    </section>
+
+    <section class="quiz-screen screen" id="quiz" aria-labelledby="question-text" hidden>
+      <div class="quiz-shell">
+        <button class="quiz-home" id="quiz-home" aria-label="Return to home page">&larr; HOME</button>
+        <header class="quiz-header"><span>MSTE <span class="quiz-slash">/</span> PRACTICE</span><span class="practice-tag">QUESTION BANK</span></header>
+        <div class="question-status"><p id="question-number">QUESTION 1 / 10</p><span aria-hidden="true">◆</span></div>
+        <progress id="quiz-progress" value="0" max="10" aria-label="Questions completed"></progress>
+        <article class="question-card"><p class="eyebrow">THE CHALLENGE</p><h2 id="question-text" tabindex="-1"></h2></article>
+        <div id="answer-choices" class="answer-choices" role="group" aria-label="Answer choices"></div>
+        <p id="answer-feedback" class="answer-feedback" role="status" aria-live="polite">Choose an answer to continue.</p>
+      </div>
+    </section>
+
+    <section class="results-image-screen screen" id="results" aria-labelledby="results-title" hidden>
+      <h2 class="visually-hidden" id="results-title" tabindex="-1">Quiz complete</h2>
+      <div class="results-artwork">
+        <img src="photos/result.png" alt="" width="941" height="1672" draggable="false">
+        <div class="result-number-cover result-score" aria-hidden="true"><span id="result-score-correct">0</span><span id="result-score-total">/ 10</span></div>
+        <div class="result-number-cover result-correct" id="result-correct" aria-hidden="true">0</div>
+        <div class="result-number-cover result-incorrect" id="result-incorrect" aria-hidden="true">0</div>
+        <button class="results-next" id="results-mste" aria-label="Back to MSTE question selection"></button>
+      </div>
+    </section>
+
+    <dialog id="settings-dialog" aria-labelledby="settings-title">
+      <form method="dialog">
+        <div class="dialog-header"><h2 id="settings-title">Settings</h2><button class="close-button" aria-label="Close settings">&times;</button></div>
+        <label class="motion-setting"><span>Character motion<small>Idle animation & pointer reactions</small></span><input type="checkbox" id="motion-toggle" checked></label>
+        <label class="motion-setting"><span>Sound effects<small>Button clicks & wrong answers</small></span><input type="checkbox" id="sound-toggle" checked></label>
+        <p class="settings-note">You can always drag your character.</p>
+      </form>
+    </dialog>
+  </main>
+  <noscript><p class="noscript">Enable JavaScript to start the reviewer and interact with your character.</p></noscript>
+</body>
+</html>
+

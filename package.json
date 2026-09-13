@@ -1,0 +1,14 @@
+{
+  "name": "ust-engineering-reviewer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "verify": "node scripts/verify.mjs",
+    "test": "node scripts/question-selection.test.mjs",
+    "check": "node --check js/character.js && node --check js/app.js && node --check js/quiz.js && node --check js/questions.js && node --check js/question-selection.js && node --check js/sounds.js && node --check scripts/serve.mjs && node --check scripts/build.mjs"
+  }
+}
