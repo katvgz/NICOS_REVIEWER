@@ -27,6 +27,12 @@ dialog{width:min(88vw,380px);border:1px solid #656047;border-radius:18px;padding
 /* Keep Home reachable even when cover scaling crops the artwork's left edge. */
 .mste-home{--art-width:max(100cqw,calc(100cqh * 941 / 1672));position:absolute;left:max(env(safe-area-inset-left),calc((100cqw - var(--art-width)) / 2 + var(--art-width) * 44 / 941));top:max(env(safe-area-inset-top),calc(var(--art-width) * 36 / 941));width:max(44px,calc(var(--art-width) * 72 / 941));height:max(44px,calc(var(--art-width) * 67 / 941));padding:0;border:0;border-radius:10px;overflow:hidden;background:#242322}
 .mste-home svg{width:100%;height:100%;display:block}
+/* Fit the full portrait on tablets/PCs; retain the existing phone cover layout. */
+@media(min-width:768px){
+  .mste{background:#121313}
+  .mste-artwork{width:min(100%,calc(100dvh * 941 / 1672))}
+  .mste-home{--art-width:min(100cqw,calc(100dvh * 941 / 1672))}
+}
 .question-selection{overflow:hidden;background:#1c1c1b;container-type:size}
 .qs-artwork{position:absolute;top:0;right:0;width:max(100%,calc(100dvh * 941 / 1672));aspect-ratio:941 / 1672}
 .qs-artwork img{display:block;width:100%;height:100%;pointer-events:none;user-select:none}
